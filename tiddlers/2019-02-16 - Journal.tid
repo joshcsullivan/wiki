@@ -1,9 +1,11 @@
 created: 20190216130113441
 creator: jcsullivan2
-modified: 20190216130309093
+modified: 20190216131432195
 modifier: jcsullivan2
 tags: Journal
 title: 2019-02-16 - Journal
 type: text/vnd.tiddlywiki
+
+08:13 - Testing script by changing cronjob to now.
 
 08:02 - Set up Github script from [[Jack Baty]] to auto backup TiddlyWiki to Github daily. Tomorrow I'll be able to see if the script ran correctly, currently it is working when manually run.
