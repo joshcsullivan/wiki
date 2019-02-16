@@ -1,0 +1,13 @@
+created: 20190216212254188
+creator: jcsullivan2
+modified: 20190216212539747
+modifier: jcsullivan2
+tags: TiddlyWiki
+title: TW: Link to DEVONthink Item
+type: text/vnd.tiddlywiki
+
+```
+[ext[Devon Link|x-devonthink-item://276FA79C-08F1-4E3B-9767-0E0E427F6498]]
+```
+
+Source: [[Linking to DEVONthink and other apps with a URL scheme|https://groups.google.com/d/msg/tiddlywiki/kGIemUgHcdM/1WrJRs7cBgAJ]]

@@ -1,6 +1,6 @@
 created: 20190216125647010
 creator: jcsullivan2
-modified: 20190216125705583
+modified: 20190216201836256
 modifier: jcsullivan2
 tags: TiddlyWiki
 title: TW: Install Notes
@@ -8,10 +8,12 @@ type: text/vnd.tiddlywiki
 
 TiddlyWiki Notes
 
-JCS-TiddlyWiki-1550239496551 - Firewall, NodeJS, NPM all set up.
+* Nginx Proxy serving TiddlyWiki requires `@` and `www` A records in my testing. When using notes.joshsullivan.io it wouldn't serve. Switching to joshisms.io immediately allowed TiddlyWiki to be served. 
+* Let's Encrypt can be re-issued to force HTTPS if during the initial issuance you choice the wrong option 
 
-JCS-TiddlyWiki-1550247820348 - NGinx, TiddlyWiki Installed
+Snapshots:
 
-JCS-TiddlyWiki-1550250160192 - Created TiddlyWiki Folder and Initialized it
-
-JCS-TiddlyWiki-1550278199296 - TiddlyWiki is now being server via joshisms.io, Created Tiddlers, Saving before trying to run a github backup script.
+* JCS-TiddlyWiki-1550239496551 - Firewall, NodeJS, NPM all set up.
+* JCS-TiddlyWiki-1550247820348 - NGinx, TiddlyWiki Installed
+* JCS-TiddlyWiki-1550250160192 - Created TiddlyWiki Folder and Initialized it
+* JCS-TiddlyWiki-1550278199296 - TiddlyWiki is now being served via joshisms.io, Created Tiddlers, Saving before trying to run a GitHub backup script.
