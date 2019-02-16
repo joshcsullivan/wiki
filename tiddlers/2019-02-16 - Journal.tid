@@ -1,10 +1,12 @@
 created: 20190216130113441
 creator: jcsullivan2
-modified: 20190216131432195
+modified: 20190216165955559
 modifier: jcsullivan2
 tags: Journal
 title: 2019-02-16 - Journal
 type: text/vnd.tiddlywiki
+
+11:59 - Testing script by changing cronjob with sudo.
 
 08:13 - Testing script by changing cronjob to now.
 
