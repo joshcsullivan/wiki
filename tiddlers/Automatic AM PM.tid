@@ -1,0 +1,25 @@
+created: 20190216020426720
+creator: jcsullivan2
+modified: 20190216021037455
+modifier: jcsullivan2
+tags: TextExpander
+title: Automatic AM PM
+type: text/vnd.tiddlywiki
+
+The following is a shell script that will add AM or PM based on the current time.
+
+Please set the content type to Shell Script.
+
+```python
+#!/usr/bin/python 
+  
+  from datetime import datetime
+  import sys
+  
+  currentHour = datetime.now().hour
+  
+  if currentHour < 12:
+        sys.stdout.write("AM")
+  elif currentHour >= 12:
+        sys.stdout.write("PM")
+```

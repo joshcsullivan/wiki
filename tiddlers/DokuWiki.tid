@@ -1,0 +1,23 @@
+created: 20190215232844536
+creator: jcsullivan2
+modified: 20190215233801556
+modifier: jcsullivan2
+tags: Software
+title: DokuWiki
+type: text/vnd.tiddlywiki
+
+I first heard about DokuWiki from [[Andrew Canion]] on Micro.blog after [[Jack Baty]] started to use TiddlyWiki.
+
+!! Configuration
+Current Template: [[Bootstrap3|https://www.dokuwiki.org/template:bootstrap3|Bootstrap3 Template]]
+
+
+!! Installed Plugins
+* [[AcMenu|https://www.dokuwiki.org/plugin:acmenu]]
+* [[Move Plugin|https://www.dokuwiki.org/plugin:move]]
+* [[NsToC Syntax Plugin|https://www.dokuwiki.org/plugin:nstoc]]
+
+!! External Links
+* [[DokuWiki|https://www.dokuwiki.org/dokuwiki]]
+* [[Andrew Canion's Wiki|https://andrewcanion.com/wiki]]
+* [[Jack Baty's Wiki|https://rudimentarylathe.org/]]

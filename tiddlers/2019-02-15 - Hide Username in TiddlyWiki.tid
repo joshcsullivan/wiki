@@ -1,0 +1,18 @@
+created: 20190215202443512
+creator: jcsullivan2
+modified: 20190215203311119
+modifier: jcsullivan2
+tags: Changelog
+title: 2019-02-15 - Hide Username in TiddlyWiki
+type: text/vnd.tiddlywiki
+
+To hide the username of who edited a Tiddler:
+
+* Create a new tiddler with any name
+* Give the tiddler the tag `$:/tags/Stylesheet`
+* In the text field of the tiddler put:
+```
+.tc-subtitle .tc-tiddlylink {display:none;}
+```
+
+Source: [[How to hide the author's and other fields with CSS|https://tiddlywiki.com/static/How%2520to%2520hide%2520the%2520author's%2520and%2520other%2520fields%2520with%2520CSS.html]]

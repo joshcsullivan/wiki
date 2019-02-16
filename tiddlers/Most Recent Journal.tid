@@ -1,0 +1,18 @@
+created: 20190216114409139
+creator: jcsullivan2
+modified: 20190216114433189
+modifier: jcsullivan2
+tags: 
+title: Most Recent Journal
+type: text/vnd.tiddlywiki
+
+<$list filter="[tag[Journal]sort[created]last[]]">
+<h2>Journal for <$view field="created" format="date" template="DDD DDth MMM YYYY"/></h2>
+<$transclude  mode="block"/>
+<br><br>
+<hr>
+
+<small><$link>View</$link></small> or <$button message="tm-edit-tiddler">Edit</$button>
+</$list>
+
+<<open-all filter:"[tag[Journal]!limit[10]]" label:"Open last 10 Journal entries">>

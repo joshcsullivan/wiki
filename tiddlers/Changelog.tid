@@ -1,0 +1,15 @@
+created: 20190215202222264
+creator: jcsullivan2
+modified: 20190216120348503
+modifier: jcsullivan2
+tags: TableOfContents Wiki
+title: Changelog
+type: text/vnd.tiddlywiki
+
+A Changelog for this wiki.
+
+* 2019-02-16 - Installed Navigator Plugin (Again, thanks to [[Phil Nunnally]])
+* 2019-02-16 - Installed Escapecss Plugin (Thanks to [[Phil Nunnally]] for bring this to my attention)
+* 2019-02-15 - Took Jack's Tiddler Template to hide username and have short subtitle date
+* 2019-02-15 - Added Date Modified Footer
+* 2019-02-15 - Installed TiddlyWiki

@@ -1,0 +1,19 @@
+created: 20190216113041005
+creator: jcsullivan2
+modified: 20190216113521515
+modifier: jcsullivan2
+tags: TiddlyWiki
+title: TW: Using Forever with TiddlyWiki
+type: text/vnd.tiddlywiki
+
+To keep the TiddlyWiki process running:
+
+```
+forever start --spinSleepTime 10000 /usr/local/bin/tiddlywiki /home/josh/apps/wiki/mywiki --listen "readers=(anon)" writers=josh username=YOURUSERNAME password=###########
+```
+
+To stop the TiddlyWiki process:
+
+```
+forever stop /usr/local/bin/tiddlywiki
+```

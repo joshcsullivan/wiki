@@ -1,0 +1,15 @@
+created: 20190216020847495
+creator: jcsullivan2
+modified: 20190216021025041
+modifier: jcsullivan2
+tags: TextExpander
+title: Unix Timestamp
+type: text/vnd.tiddlywiki
+
+The following is a JavaScript snippet to print the current Unix timestamp.
+
+Please sent the content type to JavaScript then add the following to the body of the snippet:
+
+```javascript
+new Date().getTime()
+```
