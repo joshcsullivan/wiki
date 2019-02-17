@@ -1,0 +1,16 @@
+created: 20190217155110208
+creator: jcsullivan2
+modified: 20190217155245773
+modifier: jcsullivan2
+tags: macOS
+title: Change macOS Default Screenshot Location
+type: text/vnd.tiddlywiki
+
+To change the default screenshot location open terminal and type:
+
+```
+defaults write com.apple.screencapture location
+```
+!!! ''Copy and paste the full line, including “location”''
+
+Then drag the new folder location into the terminal and it will populate the path, then Enter and it should change to that location.

@@ -1,9 +1,9 @@
 created: 20190216020847495
 creator: jcsullivan2
-modified: 20190216021025041
+modified: 20190217154301643
 modifier: jcsullivan2
-tags: TextExpander
-title: Unix Timestamp
+tags: TextExpander JavaScript
+title: JS: Unix Timestamp
 type: text/vnd.tiddlywiki
 
 The following is a JavaScript snippet to print the current Unix timestamp.

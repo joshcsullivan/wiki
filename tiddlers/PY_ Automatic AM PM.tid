@@ -1,9 +1,9 @@
 created: 20190216020426720
 creator: jcsullivan2
-modified: 20190216021037455
+modified: 20190217154210265
 modifier: jcsullivan2
-tags: TextExpander
-title: Automatic AM PM
+tags: TextExpander Python
+title: PY: Automatic AM PM
 type: text/vnd.tiddlywiki
 
 The following is a shell script that will add AM or PM based on the current time.

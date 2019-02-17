@@ -1,0 +1,13 @@
+created: 20190217155538716
+creator: jcsullivan2
+modified: 20190217155744136
+modifier: jcsullivan2
+tags: macOS
+title: Disable TextEdit iCloud Open
+type: text/vnd.tiddlywiki
+
+The following terminal command changes the TextEdit default to open to a new file instead of opening to the Open Dialog.
+
+```
+defaults write com.apple.TextEdit NSShowAppCentricOpenPanelInsteadOfUntitledFile -bool false 
+```

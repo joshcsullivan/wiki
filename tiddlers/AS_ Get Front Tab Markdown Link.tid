@@ -1,9 +1,9 @@
 created: 20190216020650665
 creator: jcsullivan2
-modified: 20190216021031286
+modified: 20190217154227877
 modifier: jcsullivan2
-tags: TextExpander
-title: Get Front Tab Markdown Link
+tags: TextExpander AppleScript
+title: AS: Get Front Tab Markdown Link
 type: text/vnd.tiddlywiki
 
 The following is a useful AppleScript that will get the frontmost tab of either Chrome or Safari and paste a markdown link.

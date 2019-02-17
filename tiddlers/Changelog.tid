@@ -1,6 +1,6 @@
 created: 20190215202222264
 creator: jcsullivan2
-modified: 20190216175650005
+modified: 20190217115554985
 modifier: jcsullivan2
 tags: TableOfContents Wiki
 title: Changelog
@@ -8,9 +8,11 @@ type: text/vnd.tiddlywiki
 
 A Changelog for this wiki.
 
+* 2019-02-17 - Changed the Changelog data structure. Plugin installs will now be individual Tiddlers, while other changes will be written in the Changelog.
+* [[2019-02-17 - Installed Edit-CompText Plugin]]
+* [[2019-02-16 - Installed Navigator Plugin]]
+* [[2019-02-16 - Installed EscapeCSS Plugin]]
 * 2019-02-16 - Set up Most Recent Journal post and changed $:/DefaultTiddlers to show it
-* 2019-02-16 - Installed Navigator Plugin (Again, thanks to [[Phil Nunnally]])
-* 2019-02-16 - Installed Escapecss Plugin (Thanks to [[Phil Nunnally]] for bring this to my attention)
 * 2019-02-15 - Took Jack's Tiddler Template to hide username and have short subtitle date
 * 2019-02-15 - Added Date Modified Footer
 * 2019-02-15 - Installed TiddlyWiki
