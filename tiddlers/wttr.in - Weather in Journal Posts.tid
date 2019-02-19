@@ -1,0 +1,23 @@
+created: 20190219131455532
+creator: jcsullivan2
+modified: 20190219132046459
+modifier: jcsullivan2
+tags: Software
+title: wttr.in - Weather in Journal Posts
+type: text/vnd.tiddlywiki
+
+Thanks to [[Jack Baty]] I was able to add the weather sections to my journal entries.
+
+[[wttr.in|https://github.com/chubin/wttr.in]]:
+
+<<<
+wttr.in is a console-oriented weather forecast service that supports various information representation methods like terminal-oriented ANSI-sequences for console HTTP clients (curl, httpie, or wget), HTML for web browsers, or PNG for graphical viewers.
+<<<
+
+To check the weather, open Terminal or a similar console application with curl enabled and run:
+
+```
+curl wttr.in/Boston
+```
+
+Replacing `Boston` with your city.

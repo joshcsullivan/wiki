@@ -1,0 +1,19 @@
+created: 20190219130808155
+creator: jcsullivan2
+modified: 20190219145009745
+modifier: jcsullivan2
+tags: Journal
+title: 2019-02-19 - Journal
+type: text/vnd.tiddlywiki
+
+```
+    \  /       Partly cloudy
+  _ /"".-.     6-17 °F
+    \_(   ).   → 10 mph
+    /(___(__)  9 mi
+               0.0 in
+```
+
+08:11 - Cold Brew from [[The Well|http://www.thewellcoffeehouse.com/]] was particularly good this morning.
+
+09:48 - Deployed [[Commonmarks|https://github.com/matthewl/Commonmarks]] to a [[Heroku]] Dyno: [[JCS-Commonmarks|https://jcs-commonmarks.herokuapp.com/]]
