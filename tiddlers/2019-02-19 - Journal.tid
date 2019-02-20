@@ -1,6 +1,6 @@
 created: 20190219130808155
 creator: jcsullivan2
-modified: 20190219145009745
+modified: 20190220014024218
 modifier: jcsullivan2
 tags: Journal
 title: 2019-02-19 - Journal
@@ -17,3 +17,5 @@ type: text/vnd.tiddlywiki
 08:11 - Cold Brew from [[The Well|http://www.thewellcoffeehouse.com/]] was particularly good this morning.
 
 09:48 - Deployed [[Commonmarks|https://github.com/matthewl/Commonmarks]] to a [[Heroku]] Dyno: [[JCS-Commonmarks|https://jcs-commonmarks.herokuapp.com/]]
+
+20:35 - [[ZOC Terminal]] has been instrumental in getting all of the commands I entered to create this wiki. I am hoping to have a step by step instructions on creating a TiddlyWiki on a DigitalOcean droplet by the end of this weekend.

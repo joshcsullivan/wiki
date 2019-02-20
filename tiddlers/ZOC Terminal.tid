@@ -1,0 +1,19 @@
+created: 20190220013300827
+creator: jcsullivan2
+modified: 20190220014450243
+modifier: jcsullivan2
+tags: Software
+title: ZOC Terminal
+type: text/vnd.tiddlywiki
+
+[[ZOC|https://www.emtec.com/zoc/]]
+
+<<<
+SSH Client and Terminal Emulator for macOS and Windows
+ZOC is a professional terminal emulation software for Windows and macOS.
+Its impressive list of emulations and powerful features makes it a reliable and elegant tool that connects you to hosts and mainframes via secure shell, telnet, serial cable and other methods of communication.
+<<<
+
+ZOC has been my favorite terminal emulator on Windows for about four years now, one of its most significant features is logging. ZOC keeps a log of every command you input and the outputs of those commands so I know what I did when I did it, and what was the outcome. It is a little expensive for personal use, but professional use it's on the cheaper side, and I highly recommend it to anyone who needs a terminal on Windows.
+
+Another great feature is its ability to create SSH keys via a GUI with all of the options one would expect.
