@@ -2,7 +2,7 @@ caption: TOC
 created: 20190215202300235
 creator: jcsullivan2
 list-before: 
-modified: 20190216213542614
+modified: 20190220114151957
 modifier: jcsullivan2
 tags: $:/tags/SideBar
 title: Table Of Contents
@@ -14,6 +14,6 @@ A manually maintained TOC.
 
 <div class="tc-table-of-contents">
 
-<<toc-selective-expandable "TableOfContents"  "sort{fuzzy}" >>
+<<toc-selective-expandable "TableOfContents"  "sort{!!fuzzy}" >>
 
 </div>
