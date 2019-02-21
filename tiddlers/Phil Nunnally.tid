@@ -1,7 +1,8 @@
 created: 20190216115915858
 creator: jcsullivan2
-modified: 20190216120316831
+modified: 20190221154040645
 modifier: jcsullivan2
+tags: People
 title: Phil Nunnally
 type: text/vnd.tiddlywiki
 
@@ -11,3 +12,6 @@ Phil has many similar interests to myself.
 * Main Blog: [[Twelvety|https://twelvety.com/]]
 * Micro.blog Blog: [[Phil Nunnally|https://twelvety.micro.blog]]
 * Micro.blog: [[@twelvety|https://micro.blog/twelvety]]
+
+!! Letters:
+<<list-links "[tag[Letter]]+[tag[Phil Nunnally]]">>
