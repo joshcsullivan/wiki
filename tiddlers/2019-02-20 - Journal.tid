@@ -1,6 +1,6 @@
 created: 20190220105458063
 creator: jcsullivan2
-modified: 20190220105533654
+modified: 20190220202927731
 modifier: jcsullivan2
 tags: Journal
 title: 2019-02-20 - Journal
@@ -13,3 +13,7 @@ type: text/vnd.tiddlywiki
     /(___(__)  9 mi           
                0.0 in         
 ```
+
+12:26 - I've created a second online wiki that is for personal notes and restricted reading and writing to authenticated users. I can use this for personal notes I don't want anyone else accessing. This also gave me a trial run on my documentation of how to set up a TiddlyWiki on DigitalOcean, only missed one command certbot related. So I think after some polishing I should have the instructions up in the next day or two.
+
+15:28 - Posted: [[Creating an Online TiddlyWiki on DigitalOcean|https://blog.joshsullivan.io/2019/02/20/creating-online-tiddlywiki]]
