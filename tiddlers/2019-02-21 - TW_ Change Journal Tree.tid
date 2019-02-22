@@ -1,0 +1,17 @@
+created: 20190221224350472
+creator: jcsullivan2
+modified: 20190221224615016
+modifier: jcsullivan2
+tags: Changelog
+title: 2019-02-21 - TW: Change Journal Tree
+type: text/vnd.tiddlywiki
+
+Changed journal tree to:
+
+```
+YYYY - Journal
+	YYYY-MM - Journal 
+		Journal Entry 
+```
+
+As more journal entries are added, instead of one long list of entries, it will be broken down to year and month.

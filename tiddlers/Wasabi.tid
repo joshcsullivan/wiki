@@ -1,0 +1,14 @@
+created: 20190221170806899
+creator: jcsullivan2
+list: 
+modified: 20190221212827438
+modifier: jcsullivan2
+tags: Services
+title: Wasabi
+type: text/vnd.tiddlywiki
+
+[[Wasabi|https://wasabi.com/]] is S3 compliant storage. It is incredibly cheap for $5 for 1TB or less, which I am definitely under.
+
+I am currently using it for hosting my blog and wiki images and any downloads I need to share. I also use it with [[Dropshare]].
+
+I also have [[this wiki backing up to it|TW: Wiki Backup]].

@@ -1,0 +1,17 @@
+created: 20190221234116004
+creator: jcsullivan2
+modified: 20190221234137406
+modifier: jcsullivan2
+tags: TiddlyWiki
+title: 2019-02-21 - TW: Change Recent Tab
+type: text/vnd.tiddlywiki
+
+To change the recent tab in TiddlyWiki to only show the ## most recent Tiddlers:
+
+Create a new Tiddler with the name `$:/core/ui/SideBar/Recent` then add the tag: `$:/tags/SideBar`
+
+In the body add:
+
+```
+<$macrocall $name="timeline" format={{$:/language/RecentChanges/DateFormat}} dateField="modified" limit="NUMBER GOES HERE" />
+```

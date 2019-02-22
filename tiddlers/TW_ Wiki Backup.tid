@@ -1,0 +1,14 @@
+created: 20190221170551140
+creator: jcsullivan2
+modified: 20190221171541190
+modifier: jcsullivan2
+tags: TiddlyWiki
+title: TW: Wiki Backup
+type: text/vnd.tiddlywiki
+
+I now have TiddlyWiki backed up to Github as well as [[Wasabi]] via [[rClone]].
+
+Sources:
+
+* [[rClone Setup with Wasabi|https://rclone.org/s3/#wasabi]]
+* [[rClone Scheduling|https://forum.rclone.org/t/rclone-scheduling/642/7]]

@@ -1,8 +1,8 @@
 created: 20190221111536418
 creator: jcsullivan2
-modified: 20190221154316544
+modified: 20190221235022307
 modifier: jcsullivan2
-tags: Journal
+tags: [[2019-02 - Journal]]
 title: 2019-02-21 - Journal
 type: text/vnd.tiddlywiki
 
@@ -17,3 +17,13 @@ type: text/vnd.tiddlywiki
 06:16 - [[Blot.im]] is down, has been since 4:30 A.M. EST today, I was hoping to get a couple CSS changes done, but it will need to wait until later.
 
 10:42 - Posted [[2019-02-21 - To: Andrew, Jack, and Phil - IRL Introduction]] in response to [[2019-02-19: A Letter to My Wiki Friends|https://andrewcanion.com/wiki/doku.php?id=2019_02_19_letter_my_wiki_friends]]
+
+12:18 - Set up [[rClone to backup wiki to Wasabi|TW: Wiki Backup]]
+
+13:22 - Fighting Adobe to install XD with a Shared Device license is the most mentally painful thing I've done in a long time. 
+
+16:22 - Changed structure of Journal tree after seeing [[Andrew Canion]]’s changes. Thinking of the long term I won’t want to have a long list of a couple months of entries let alone a year of entries.
+
+17:11 - It's always fun to come across an article you produced in a place you wouldn't expect it to be.
+
+18:48 - I've been using [[EscapeCSS|2019-02-16 - Installed EscapeCSS Plugin]] and [[Navigator|2019-02-16 - Installed Navigator Plugin]] plugins since the 16th and tonight they stopped allowing me to use the enter key in the body of Tiddlers. I've disabled them for now and plan to report the odd experience to the creators.
