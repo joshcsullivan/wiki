@@ -1,0 +1,11 @@
+created: 20190225143659732
+creator: jcsullivan2
+modified: 20190225143828729
+modifier: jcsullivan2
+tags: Changelog
+title: 2019-02-25 - TW: Installed Context Plugin
+type: text/vnd.tiddlywiki
+
+Installed [[Context Plugin|http://contextplugin.tiddlyspot.com/]] which defaults search to context results.
+
+Thanks to [[Phil Nunnally]] for bringing it to my attention.
