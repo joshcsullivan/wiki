@@ -1,6 +1,6 @@
 created: 20190215232844536
 creator: jcsullivan2
-modified: 20190215233801556
+modified: 20190226153131796
 modifier: jcsullivan2
 tags: Software
 title: DokuWiki
@@ -10,6 +10,12 @@ I first heard about DokuWiki from [[Andrew Canion]] on Micro.blog after [[Jack B
 
 !! Configuration
 Current Template: [[Bootstrap3|https://www.dokuwiki.org/template:bootstrap3|Bootstrap3 Template]]
+
+To changed the default setting for external links to open in a new tab:
+
+Found under Configuration Settings > DokuWiki > Links
+
+Change ''target»extern'' value to ''_tab''
 
 
 !! Installed Plugins
