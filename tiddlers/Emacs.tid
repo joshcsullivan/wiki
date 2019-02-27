@@ -1,0 +1,18 @@
+created: 20190227162234331
+creator: jcsullivan2
+modified: 20190227162539147
+modifier: jcsullivan2
+tags: Software
+title: Emacs
+type: text/vnd.tiddlywiki
+
+<<<
+An extensible, customizable, free/libre text editor — and more.
+
+At its core is an interpreter for Emacs Lisp, a dialect of the Lisp programming language with extensions to support text editing.
+<<<
+
+
+References:
+
+* [[Emacs Quick Reference|http://www.cs.cornell.edu/courses/cs312/2007sp/software/quick-emacs.html]]
