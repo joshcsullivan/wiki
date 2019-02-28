@@ -1,0 +1,21 @@
+created: 20190228110116283
+creator: jcsullivan2
+modified: 20190228163219465
+modifier: jcsullivan2
+tags: [[2019-02 - Journal]]
+title: 2019-02-28 - Journal
+type: text/vnd.tiddlywiki
+
+```
+               Mist
+  _ - _ - _ -  12..23 °F
+   _ - _ - _   ↘ 11 mph
+  _ - _ - _ -  4 mi
+               0.1 in
+```
+
+06:01 - I'm getting `Sorry, we are running out of queries to the weather service at the moment.` error when running the wttr.in curl command, so no weather in the journal yet.
+
+08:03 - Trying to figure out how to use one path for TheBrain attachments and it open on both Windows and macOS. It's going to be a mixture of symbolic links and Environmental Variables I think.
+
+11:32 - Wttr.in is back up.

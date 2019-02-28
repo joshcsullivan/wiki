@@ -1,6 +1,6 @@
 created: 20190215202443512
 creator: jcsullivan2
-modified: 20190215203311119
+modified: 20190228144149741
 modifier: jcsullivan2
 tags: Changelog
 title: 2019-02-15 - Hide Username in TiddlyWiki
@@ -16,3 +16,19 @@ To hide the username of who edited a Tiddler:
 ```
 
 Source: [[How to hide the author's and other fields with CSS|https://tiddlywiki.com/static/How%2520to%2520hide%2520the%2520author's%2520and%2520other%2520fields%2520with%2520CSS.html]]
+
+!! Hide Username with Subtitle Change:
+
+Create a Tiddler with the name `$:/core/ui/ViewTemplate/subtitle` then `$:/tags/ViewTemplate` as a tag.
+
+The body should be the following:
+
+```
+<$reveal type="nomatch" stateTitle=<<folded-state>> text="hide" tag="div" retain="yes" animate="yes">
+<div class="tc-subtitle">
+<$view field="created" format="date" template="mmm DDth YYYY"/>
+</div>
+</$reveal>
+```
+
+Source: [[Jack Baty's Wiki|https://rudimentarylathe.org/#2019.01.09%20-%20Wiki%3A%20Subtitle%20and%20footer%20updates]]
