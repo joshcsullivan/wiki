@@ -1,0 +1,11 @@
+created: 20190302162807341
+creator: jcsullivan2
+modified: 20190302163244225
+modifier: jcsullivan2
+tags: Software
+title: Transmit
+type: text/vnd.tiddlywiki
+
+[[Transmit 5|https://panic.com/transmit/]] is great for managing files and upload them. Unfortunately it doesn't allow for editing S3 uploaded file metadata. 
+
+I use [[Wasabi]] for sharing files and hosting images for this wiki and my blog. Transmit allows me easily manage the files in my Wasabisys buckets.

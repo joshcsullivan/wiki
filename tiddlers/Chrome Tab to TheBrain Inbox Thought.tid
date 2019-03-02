@@ -1,0 +1,13 @@
+created: 20190302154510089
+creator: jcsullivan2
+modified: 20190302161606608
+modifier: jcsullivan2
+tags: [[Keyboard Maestro]]
+title: Chrome Tab to TheBrain Inbox Thought
+type: text/vnd.tiddlywiki
+
+This Keyboard Maestro Macro will take the front Chrome tab and create a new thought under another thought, which is set via the local thought URL.
+
+WARNING: The following is a download link, it will immediately download the Keyboard Maestro Macro: 
+
+[[Chrome Tab to TheBrain Inbox Thought|https://jcs-wiki.s3.wasabisys.com/uploads/2019/Chrome-Tab-to-Inbox-Thought.kmmacros]]

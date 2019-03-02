@@ -1,0 +1,17 @@
+created: 20190302145232009
+creator: jcsullivan2
+modified: 20190302145454417
+modifier: jcsullivan2
+tags: Blot
+title: Blot: To Do
+type: text/vnd.tiddlywiki
+
+!!! To Do:
+
+* Separate Status Update posts from Main Entries Page
+* Re-create Main Entries page with only Titled posts
+* Set Home page with link to Status Updates at the top, under header.
+
+!!! Done:
+
+* Code CSS Change for red text inline 

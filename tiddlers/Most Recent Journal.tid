@@ -1,12 +1,12 @@
 created: 20190216114409139
 creator: jcsullivan2
-modified: 20190221224045079
+modified: 20190302142851639
 modifier: jcsullivan2
 tags: 
 title: Most Recent Journal
 type: text/vnd.tiddlywiki
 
-<$list filter="[tag[2019-02 - Journal]sort[created]last[]]">
+<$list filter="[tag[2019-03 - Journal]sort[created]last[]]">
 <h2>Journal for <$view field="created" format="date" template="DDD DDth MMM YYYY"/></h2>
 <$transclude  mode="block"/>
 <br><br>

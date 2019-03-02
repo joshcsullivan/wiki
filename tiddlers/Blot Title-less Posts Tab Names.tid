@@ -1,0 +1,17 @@
+created: 20190302120214433
+creator: jcsullivan2
+modified: 20190302120717705
+modifier: jcsullivan2
+tags: Blot
+title: Blot Title-less Posts Tab Names
+type: text/vnd.tiddlywiki
+
+If a [[Blot]] site's tab titles are showing as '- Name of Site' you can change this by disabling local editing, if you enabled local editing. Go to Entry.html then settings, the second tab on top of the HTML text. Change the title partial to:
+
+```
+{{#entry.title}} {{{.}}} - {{/entry.title}} {{{title}}}
+```
+
+It should look like this:
+
+[img[https://jcs-wiki.s3.wasabisys.com/uploads/2019/20190302-070005.png]]

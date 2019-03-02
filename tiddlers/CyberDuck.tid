@@ -1,0 +1,11 @@
+created: 20190302163248392
+creator: jcsullivan2
+modified: 20190302163622256
+modifier: jcsullivan2
+tags: Software
+title: CyberDuck
+type: text/vnd.tiddlywiki
+
+[[CyberDuck|https://cyberduck.io/]] is a great for managing remote server files and S3 buckets.
+
+It also allows for editing S3 Bucket file metadata, which [[Transmit]] does not. It looks nicer on macOS than Windows, but is a great application on both.

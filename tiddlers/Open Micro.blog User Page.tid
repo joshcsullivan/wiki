@@ -1,0 +1,19 @@
+created: 20190302151107852
+creator: jcsullivan2
+modified: 20190302151603666
+modifier: jcsullivan2
+tags: Alfred
+title: Open Micro.blog User Page
+type: text/vnd.tiddlywiki
+
+A simple Alfred workflow that quickly takes a keyword, in my case `mb` then the username of the person you want to visit.
+
+My invoke is `mb username`
+
+Set up by creating a Blank Workflow, Right click on the Workflow area: 
+
+Inputs > Keyword > Add your keyword and Title it then save it
+
+Right click again then:
+
+Actions > Open URL > URL should be: `https://micro.blog/{query}`
