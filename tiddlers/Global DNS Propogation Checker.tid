@@ -1,0 +1,9 @@
+created: 20190304132840549
+creator: jcsullivan2
+modified: 20190304133118937
+modifier: jcsullivan2
+tags: Services
+title: Global DNS Propogation Checker
+type: text/vnd.tiddlywiki
+
+[[whatsmydns.net|https://www.whatsmydns.net/]] is a great DNS checker with access to different DNS servers and location propagation tools.

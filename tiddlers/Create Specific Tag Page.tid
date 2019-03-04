@@ -1,0 +1,18 @@
+created: 20190304134215661
+creator: jcsullivan2
+modified: 20190304164118337
+modifier: jcsullivan2
+tags: Blot
+title: Create Specific Tag Page
+type: text/vnd.tiddlywiki
+
+To create a page on a Blot blog with only specific tag use this in the template:
+
+```
+{{#allEntries}}
+	{{#tagged.TagGoesHere}}
+	...
+	{{/tagged.TagGoesHere}}
+{{/allEntries}}
+```
+

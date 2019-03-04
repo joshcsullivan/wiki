@@ -1,6 +1,6 @@
 created: 20190215202222264
 creator: jcsullivan2
-modified: 20190225151418668
+modified: 20190304164648156
 modifier: jcsullivan2
 tags: TableOfContents Wiki
 title: Changelog
@@ -8,8 +8,9 @@ type: text/vnd.tiddlywiki
 
 A Changelog for this wiki.
 
-* 2019-02-25 - [[2019-02-25 - TW: Added Loading Page]]
-* 2019-02-25 - [[2019-02-25 - TW: Installed Context Plugin]]
+* [[2019-03-04 - Installed PopupFootnotes]]
+* [[2019-02-25 - TW: Added Loading Page]]
+* [[2019-02-25 - TW: Installed Context Plugin]]
 * 2019-02-17 - Changed the Changelog data structure. Plugin installs will now be individual Tiddlers, while other changes will be written in the Changelog.
 * [[2019-02-17 - Installed Edit-CompText Plugin]]
 * [[2019-02-16 - Installed Navigator Plugin]]

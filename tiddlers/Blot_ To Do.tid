@@ -1,6 +1,6 @@
 created: 20190302145232009
 creator: jcsullivan2
-modified: 20190302145454417
+modified: 20190304164153733
 modifier: jcsullivan2
 tags: Blot
 title: Blot: To Do
@@ -8,10 +8,13 @@ type: text/vnd.tiddlywiki
 
 !!! To Do:
 
-* Separate Status Update posts from Main Entries Page
 * Re-create Main Entries page with only Titled posts
-* Set Home page with link to Status Updates at the top, under header.
+* ''On Hold'' <<footnote "1" "Pagination cannot be used except on entries.html, David is working on adding this feature" >> Set Home page with link to Status Updates at the top, under header. 
 
 !!! Done:
 
+* 20190304 - Create Status Update posts Page
+* 20190304 - Added DuckDuckGo Search to the Footer.html
 * Code CSS Change for red text inline 
+
+<<footnotes "1" "I'm not sure why this post isn't available anywhere on my blogs. It was first posted to jackbaty.com and I happened to find it in the email notification from the post.">>
