@@ -1,0 +1,26 @@
+created: 20190307104503212
+creator: jcsullivan2
+modified: 20190307160533691
+modifier: jcsullivan2
+tags: [[2019-03 - Journal]]
+title: 2019-03-07 - Journal
+type: text/vnd.tiddlywiki
+
+```
+    \  /       Partly cloudy
+  _ /"".-.     3..15 °F       
+    \_(   ).   → 11 mph       
+    /(___(__)  9 mi           
+               0.0 in         
+```
+
+08:11 - I spent about 25 minutes writing/piecing together a JavaScript Snippet in TextExpander that takes the clipboard replaces spaces with hyphens then changes the text to lowercase, only to realize it could be two lines thanks to TE variables.
+
+```
+var str = "%clipboard";
+str.split(" ").join("-").toLowerCase();
+```
+
+08:43 - Posted: [[Return to Sublime Text|https://blog.joshsullivan.io/2019/03/07/return-to-sublime-text]]
+
+11:05 - I've been playing around with CSS on my private TiddlyWiki and I think I'm almost ready to deploy it to this wiki.

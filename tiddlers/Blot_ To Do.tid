@@ -1,6 +1,6 @@
 created: 20190302145232009
 creator: jcsullivan2
-modified: 20190304164153733
+modified: 20190307134433663
 modifier: jcsullivan2
 tags: Blot
 title: Blot: To Do
@@ -10,6 +10,7 @@ type: text/vnd.tiddlywiki
 
 * Re-create Main Entries page with only Titled posts
 * ''On Hold'' <<footnote "1" "Pagination cannot be used except on entries.html, David is working on adding this feature" >> Set Home page with link to Status Updates at the top, under header. 
+* Fix Metadata for older posts
 
 !!! Done:
 
