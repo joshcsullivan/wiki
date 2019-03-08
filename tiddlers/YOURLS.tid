@@ -1,0 +1,25 @@
+created: 20190308125459775
+creator: jcsullivan2
+modified: 20190308150311820
+modifier: jcsullivan2
+tags: Services
+title: YOURLS
+type: text/vnd.tiddlywiki
+
+[[YOURLS|https://yourls.org/]]
+
+<<<
+YOURLS stands for Your Own URL Shortener. It is a small set of PHP scripts that will allow you to run your own URL shortening service (a la TinyURL or Bitly).
+
+Running your own URL shortener is fun, geeky and useful: you own your data and don't depend on third-party services. It's also a great way to add branding to your short URLs, instead of using the same public URL shortener everyone uses.
+<<<
+
+I'm about to embark on implementing YOURLS so I don't rely on other services, and can use my own domain name.
+
+''Update'': Thanks to [[this tutorial|https://slnks.io/clwzo]] I now have YOURLS up and running.
+
+Installed the following plugins:
+
+* [[Don't Track Admins|https://slnks.io/tsd9a]]
+* [[Don't Log Crawlers|https://slnks.io/s7pqj]]
+* [[Random Keywords|https://slnks.io/mejqn]]

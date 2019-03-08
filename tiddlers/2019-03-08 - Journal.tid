@@ -1,0 +1,19 @@
+created: 20190308103221951
+creator: jcsullivan2
+modified: 20190308162655057
+modifier: jcsullivan2
+tags: [[2019-03 - Journal]]
+title: 2019-03-08 - Journal
+type: text/vnd.tiddlywiki
+
+```
+     \   /     Clear
+      .-.      10..21 °F      
+   ― (   ) ―   → 9 mph        
+      `-’      9 mi           
+     /   \     0.0 in         
+```
+
+05:33 - I was promised spring weather by the end of this week and it's still early February weather. 😡
+
+11:25 - Got YOURLS up and running on a droplet. Biggest issue was getting [[mariabackup|https://slnks.io/pnhe3]] installed and running with a cronjob and RClone.
