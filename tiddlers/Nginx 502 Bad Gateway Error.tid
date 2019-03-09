@@ -1,0 +1,11 @@
+created: 20190308194351460
+creator: jcsullivan2
+modified: 20190308194534670
+modifier: jcsullivan2
+tags: DigitalOcean
+title: Nginx 502 Bad Gateway Error
+type: text/vnd.tiddlywiki
+
+If you are serving multiple sites from one Ubuntu server via Nginx and are consistently getting a 502 bad gateway error:
+
+Check the config file of the site and remove `ipv6only=on`

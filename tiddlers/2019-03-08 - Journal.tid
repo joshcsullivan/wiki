@@ -1,6 +1,6 @@
 created: 20190308103221951
 creator: jcsullivan2
-modified: 20190308162655057
+modified: 20190308235937901
 modifier: jcsullivan2
 tags: [[2019-03 - Journal]]
 title: 2019-03-08 - Journal
@@ -17,3 +17,7 @@ type: text/vnd.tiddlywiki
 05:33 - I was promised spring weather by the end of this week and it's still early February weather. 😡
 
 11:25 - Got YOURLS up and running on a droplet. Biggest issue was getting [[mariabackup|https://slnks.io/pnhe3]] installed and running with a cronjob and RClone.
+
+15:16 - I'll be moving the YOURLS service to the server this wiki is on, so the next few hours may be spotty connection to the wiki while I migrate the mysql database and re-assign ports.
+
+18:58 - YOURLS has been moved to my main server. Now the other one is back to a test server. It was a very easy process, thank goodness to SCP on Ubuntu.
