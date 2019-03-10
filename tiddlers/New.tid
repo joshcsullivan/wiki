@@ -1,10 +1,10 @@
 created: 20190215235909117
 creator: jcsullivan2
 list-before: $:/core/ui/SideBar/Open
-modified: 20190221223808517
+modified: 20190310142856229
 modifier: jcsullivan2
 tags: $:/tags/SideBar
 title: New
 type: text/vnd.tiddlywiki
 
-<$macrocall $name="timeline" format={{$:/language/RecentChanges/DateFormat}} dateField="created" limit="20" />
+<$macrocall $name="timeline" format={{$:/language/RecentChanges/DateFormat}} dateField="created" limit="15" />
