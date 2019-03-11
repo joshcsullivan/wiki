@@ -1,0 +1,15 @@
+created: 20190311124840737
+creator: jcsullivan2
+modified: 20190311125145635
+modifier: jcsullivan2
+tags: [[Sublime Text]]
+title: SideBarEnhancements
+type: text/vnd.tiddlywiki
+
+[[SideBarEnhancements|https://slnks.io/z7nud]]
+
+<<<
+Provides enhancements to the operations on Sidebar of Files and Folders for Sublime Text.
+<<<
+
+I needed to move posts from the Drafts folder to the Posts folder in my Blot folder and found I couldn't do it in Sublime Text. Thankfully Tito had this issue as well and created the SideBarEnhancements plugin. A great plugin that should probably come as a default.
