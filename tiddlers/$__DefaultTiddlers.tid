@@ -1,14 +1,12 @@
 created: 20190215203639153
 creator: jcsullivan2
-modified: 20190310121633287
+modified: 20190312125046670
 modifier: jcsullivan2
 title: $:/DefaultTiddlers
 type: text/vnd.tiddlywiki
 
 [[Welcome]]
 
-[[Most Recent Journal]]
+[tag[2019-03 - Journal]!sort[created]limit[5]]
 
 [[Changelog]]
-
-[tag[2019-03 - Journal]!sort[created]limit[5]]

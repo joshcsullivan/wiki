@@ -1,0 +1,27 @@
+created: 20190312155805348
+creator: jcsullivan2
+modified: 20190312160212567
+modifier: jcsullivan2
+tags: 
+title: 2019-03-12 - Link: Typing Umlauts on a PC and Mac
+type: text/vnd.tiddlywiki
+
+[[Typing Umlauts on a PC and Mac|https://slnks.io/4vkm4]]:
+
+<<<
+
+The fail-safe method using the ALT-key:
+
+* Number Lock should be ON
+* Use the left-side ALT key (for most keyboards; try the right if it doesn’t work)
+* Hold down the ALT key and type a number on the number pad as follows (while holding the ALT key down). When you release the ALT key, you will have the following character:
+
+|!Code|!Outcome|
+|ALT 0223|ß|
+|ALT 0228|ä|
+|ALT 0246|ö|
+|ALT 0252|ü|
+|ALT 0196|Ä|
+|ALT 0214|Ö|
+|ALT 0220|Ü|
+<<<
