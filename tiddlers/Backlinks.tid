@@ -1,6 +1,6 @@
 created: 20190215201748984
 creator: jcsullivan2
-modified: 20190215201809529
+modified: 20190314135659755
 modifier: jcsullivan2
 tags: $:/tags/ViewTemplate
 title: Backlinks
@@ -8,6 +8,6 @@ type: text/vnd.tiddlywiki
 
 <$list filter='[is[current]backlinks[]limit[1]]' variable=dummy>
 <hr>
-Backlinks: <$list filter='[<currentTiddler>backlinks[]butlast[]]'><$link><$view field="title"/></$link>,</$list>
+Backlinks: <$list filter='[<currentTiddler>backlinks[]butlast[]]'><$link><$view field="title"/></$link> & </$list>
 <$list filter='[<currentTiddler>backlinks[]last[]]'><$link><$view field="title"/></$link></$list>
 </$list>
