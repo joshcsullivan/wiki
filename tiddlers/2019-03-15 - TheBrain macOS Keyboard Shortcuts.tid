@@ -1,0 +1,83 @@
+created: 20190315094900448
+creator: jcsullivan2
+modified: 20190315094949865
+modifier: jcsullivan2
+tags: TheBrain
+title: 2019-03-15 - TheBrain macOS Keyboard Shortcuts
+type: text/vnd.tiddlywiki
+
+|Action|Shortcut|
+|Edit.Redo|Keyboard[Shift+Cmd+Z]|
+|Edit.Undo|Keyboard[Cmd+Z]|
+|View.CollapseAll|Keyboard[Cmd+9]|
+|View.ExpandAll|Keyboard[Cmd+0]|
+|View.Expanded|Keyboard[Shift+Ctrl+4]|
+|View.Outline|Keyboard[Shift+Ctrl+2]|
+|View.Normal|Keyboard[Shift+Ctrl+1]|
+|Edit.Cut|Keyboard[Cmd+X]|
+|Edit.Copy|Keyboard[Cmd+C]|
+|Edit.Paste|Keyboard[Cmd+V]|
+|Navigate.Forward|Keyboard[Shift+Cmd+Backspace]|
+|Navigate.Backward|Keyboard[Cmd+Backspace]|
+|Navigate.Up|Keyboard[Up]|
+|Navigate.Down|Keyboard[Down]|
+|Navigate.Left|Keyboard[Left]|
+|Navigate.Right|Keyboard[Right]|
+|Navigate.Enter|Keyboard[Enter]|
+|Options.WebSearch|Keyboard[Cmd+E]|
+|Navigate.Escape|Keyboard[Esc]|
+|View.Mindmap|Keyboard[Shift+Ctrl+3]|
+|View.PlexZoomIn|Keyboard[Cmd+=]|
+|View.PlexZoomOut|Keyboard[Cmd+-]|
+|Edit.SelectAll|Keyboard[Cmd+A]|
+|Edit.PasteOnPlex|Keyboard[Alt+Shift+Cmd+Down]|
+|Edit.PasteOnItem|Keyboard[Alt+Shift+Cmd+V]|
+|Icon.SelectStockIcon|Keyboard[Alt+Cmd+I]|
+|Thought.DuplicateThought|Keyboard[Cmd+D]|
+|Thought.ForgetThought|Keyboard[Cmd+Del]|
+|Thought.ShowThoughtProperties|Keyboard[Alt+Enter]|
+|Thought.OpenItemAttachment|Keyboard[Cmd+O]|
+|Window.CloseTab|Keyboard[Cmd+W]|
+|Window.NewTab|Keyboard[Cmd+T]|
+|Window.NewWindow|Keyboard[Shift+Cmd+N]|
+|Application.Quit|Keyboard[Cmd+Q]|
+|Navigate.ActivateType|Keyboard[Cmd+Y]|
+|Navigate.ActivateTag|Keyboard[Cmd+G]|
+|Window.FocusNotes|Keyboard[Cmd+N]|
+|Window.FocusSearch|Keyboard[Cmd+S]|
+|Window.SplitterMore|Keyboard[Shift+Cmd+S]|
+|Window.SplitterLess|Keyboard[Shift+Cmd+A]|
+|Window.SplitterRotate|Keyboard[Shift+Cmd+D]|
+|Window.NextTab|Keyboard[Ctrl+Tab]|
+|Window.PreviousTab|Keyboard[Shift+Ctrl+Tab]|
+|Window.NextContentTab|Keyboard[Alt+Tab]|
+|Window.PreviousContentTab|Keyboard[Alt+Shift+Tab]|
+|Navigate.Pin1|Keyboard[Cmd+1]|
+|Navigate.Pin2|Keyboard[Cmd+2]|
+|Navigate.Pin3|Keyboard[Cmd+3]|
+|Navigate.Pin4|Keyboard[Cmd+4]|
+|Navigate.Pin5|Keyboard[Cmd+5]|
+|Navigate.Pin6|Keyboard[Cmd+6]|
+|Navigate.Pin7|Keyboard[Cmd+7]|
+|Navigate.Pin8|Keyboard[Cmd+8]|
+|Edit.PasteMatchingFormat|Keyboard[Shift+Cmd+V]|
+|Application.Preferences|Keyboard[Cmd+,]|
+|Notes.Bold|Keyboard[Cmd+B]|
+|Notes.Italic|Keyboard[Cmd+I]|
+|Notes.Underline|Keyboard[Cmd+U]|
+|Notes.InsertUrlLink|Keyboard[Alt+Shift+Cmd+L]|
+|Notes.InsertThoughtLink|Keyboard[Alt+Shift+Cmd+T]|
+|Notes.FindReplace|Keyboard[Cmd+F]|
+|Notes.OpenInBrowser|Keyboard[Alt+Cmd+O]|
+|Notes.Print|Keyboard[Cmd+P]|
+|Thought.OpenItemFolder|Keyboard[Shift+Cmd+F]|
+|Thought.CreateChild|Keyboard[Alt+Cmd+Down]|
+|Thought.CreateParent|Keyboard[Alt+Cmd+Up]|
+|Thought.CreateJump|Keyboard[Alt+Cmd+Left]|
+|Application.Hide|Keyboard[Cmd+H]|
+|Application.HideOthers|Keyboard[Alt+Cmd+H]|
+|Navigate.Toggle|Keyboard[Space]|
+|Attachment.PasteAttachment|Keyboard[Alt+Shift+Cmd+A]|
+|View.FullScreen|Keyboard[Cmd+Ctrl+F]|
+|View.OpenInbox|Keyboard[Shift+Cmd+B]|
+|Attachment.MoveFromInboxToActionItem|Keyboard[Alt+Cmd+B]|
