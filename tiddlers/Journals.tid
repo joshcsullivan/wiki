@@ -1,0 +1,9 @@
+created: 20190221211954175
+creator: jcsullivan2
+modified: 20190317125553214
+modifier: jcsullivan2
+tags: TableOfContents
+title: Journals
+type: text/vnd.tiddlywiki
+
+<<list-links "[field:created[/^2019/]][tag[Journals]!sort[created]]">>
