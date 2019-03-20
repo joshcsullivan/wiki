@@ -1,0 +1,23 @@
+created: 20190302145232009
+creator: jcsullivan2
+draft.of: Blot: To Do
+draft.title: Blot: To Do
+modified: 20190320141516397
+modifier: jcsullivan2
+tags: Blot
+title: Draft of 'Blot: To Do' by jcsullivan2
+type: text/vnd.tiddlywiki
+
+!!! To Do:
+
+* Re-create Main Entries page with only Titled posts
+* ''On Hold'' <<footnote "1" "Pagination cannot be used except on entries.html, David is working on adding this feature" >> Set Home page with link to Status Updates at the top, under header. 
+* Fix Metadata for older posts
+
+!!! Done:
+
+* 20190304 - Create Status Update posts Page
+* 20190304 - Added DuckDuckGo Search to the Footer.html
+* Code CSS Change for red text inline 
+
+<<footnotes "1" "I'm not sure why this post isn't available anywhere on my blogs. It was first posted to jackbaty.com and I happened to find it in the email notification from the post.">>
