@@ -1,0 +1,16 @@
+created: 20190321112236426
+creator: jcsullivan2
+modified: 20190321112655927
+modifier: jcsullivan2
+tags: 
+title: 2019-03-21 - Link: An Update to the DEVONthink Quick Note Shortcut
+type: text/vnd.tiddlywiki
+
+[[An Update to the DEVONthink Quick Note Shortcut|http://www.macdrifter.com/2019/03/an-update-to-the-devonthink-quick-note-shortcut.html]] from [[Gabe Weatherhead]] on [[MacDrifter]]
+
+<<<
+My first version of the this shortcut worked great for getting a new text note into DEVONthink. I run the shortcut from Siri and from my home screen. This is an improved version that uses an x-call-back URL to open the note in DEVONthink after it is created.
+
+The new modification is for handling the call back URL and extracting the document ID from the DEVONthink response.
+<<<
+
