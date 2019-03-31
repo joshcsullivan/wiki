@@ -1,0 +1,15 @@
+created: 20190331123221019
+creator: jcsullivan2
+modified: 20190331161042094
+modifier: jcsullivan2
+tags: Journal
+title: 2019-03-31 - Journal
+type: text/vnd.tiddlywiki
+
+🌧 37-62ºF
+
+08:33 - Doing some major renovation to my DEVONthink databases. I've mind mapped them all out and now restructuring them to eliminate overlap. Probably go from 8 to 3 or 4.
+
+09:52 - Down to 6 databases, now it starts to get interesting (for me at least). I'm having trouble pairing down the finally couple of databases. I think I need to recategorize these databases to something that might work better for combining them.
+
+12:09 - Just spent the last 45 minutes tracking down an issue with TiddlyWiki plugin that resulted in TW not being able to boot. Finally found I could remove the `.tid` file and it would boot. Now to install the updated plugin and check to see if it happens again.
