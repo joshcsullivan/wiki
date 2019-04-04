@@ -1,6 +1,6 @@
 created: 20190403093629162
 creator: jcsullivan2
-modified: 20190403125902847
+modified: 20190403213509642
 modifier: jcsullivan2
 tags: Journal
 title: 2019-04-03 - Journal
@@ -9,3 +9,5 @@ type: text/vnd.tiddlywiki
 🌧 39-60ºF
 
 07:54 - Registration week at a University is hell on IT, this year we changed authentication and added direct access to the registration service and have only had one admin server below 50% available resources. With about 400 people hitting the server with around 2400 requests every 5 minutes for 25 minutes, we are doing great compared to years past.
+
+17:33 - Testing out using Git as a client for [[Blot]]. So far it's been okay, not sure I like how difficult it is to create files on iOS. Working Copy works okay, but it isn't as easy as Dropbox action in Drafts. Still debating.
