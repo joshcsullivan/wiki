@@ -1,0 +1,13 @@
+created: 20190405134643491
+creator: jcsullivan2
+modified: 20190405135303917
+modifier: jcsullivan2
+tags: Link
+title: 2019-04-05 - Link: Backing Up Everything (Again)
+type: text/vnd.tiddlywiki
+
+[[Backing Up Everything (Again) - Tyler.io|https://tyler.io/backing-up-everything-again/]]
+
+Tyler talks about using [[rsync.net|https://www.rsync.net/]] for backing up. For 500GB it's 20 bucks a month which seem fairly pricey. I've gone with Backblaze B2 and Wasabi for backing up my MacPro, web servers, and photos. Each has the same information, at around 1 TB I'm paying $5.30 for Wasabi and a little over $5 for Backblaze.
+
+I also have four rotating hard drives that go between the bank, my house, our cape house, and a friend in Austin. I think I'm well backed up.
