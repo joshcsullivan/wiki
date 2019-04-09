@@ -1,8 +1,8 @@
 created: 20190215231722847
 creator: jcsullivan2
-modified: 20190317122125772
+modified: 20190409120141281
 modifier: jcsullivan2
 title: $:/config/RelinkOnRename
 type: text/vnd.tiddlywiki
 
-no
+yes
