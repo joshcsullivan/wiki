@@ -1,0 +1,11 @@
+created: 20190410132912896
+creator: jcsullivan2
+modified: 20190410133023327
+modifier: jcsullivan2
+tags: Changelog
+title: 2019-04-10 - TW: Updated Changelog Structure
+type: text/vnd.tiddlywiki
+
+Updated the changelog Tiddler, to be automatically added by tag. 
+
+Each change file with start with `YYYY-MM-DD - TW:`

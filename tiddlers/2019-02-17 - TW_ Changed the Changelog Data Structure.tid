@@ -1,0 +1,9 @@
+created: 20190217060000000
+creator: jcsullivan2
+modified: 20190410142738149
+modifier: jcsullivan2
+tags: Changelog
+title: 2019-02-17 - TW: Changed the Changelog Data Structure
+type: text/vnd.tiddlywiki
+
+2019-02-17 - Changed the Changelog data structure. Plugin installs will now be individual Tiddlers, while other changes will be written in the Changelog.

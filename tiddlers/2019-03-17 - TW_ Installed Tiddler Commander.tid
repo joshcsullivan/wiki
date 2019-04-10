@@ -1,0 +1,21 @@
+created: 20190317130201658
+creator: jcsullivan2
+modified: 20190410151911715
+modifier: jcsullivan2
+tags: Changelog
+title: 2019-03-17 - TW: Installed Tiddler Commander
+type: text/vnd.tiddlywiki
+
+[[Tiddler Commander|https://kookma.github.io/TW-Commander/]]
+
+<<<
+Tiddler Commander, in short Commander is a unique tool for batch operations on tiddlers.
+<<<
+
+Today alone I've used it to [[retag over 25 tiddlers|2019-03-17 - TW: Change Journal Tag]].
+
+---
+
+* 2019-03-30 - Deleted TW Commander from the VPS because it was giving an error when I tried to run TW after restarting my VPS.
+
+* 2019-04-10 - Update: Enabled TW Commander again and will remember to remove it before restarting VPS next time. It's so useful for bulk editing Tiddlers.

@@ -1,9 +1,9 @@
 created: 20190317125909027
 creator: jcsullivan2
-modified: 20190317130114987
+modified: 20190410132909050
 modifier: jcsullivan2
 tags: Changelog
-title: 2019-03-17 - Change Journal Tag
+title: 2019-03-17 - TW: Change Journal Tag
 type: text/vnd.tiddlywiki
 
 Changed the Journal entries tag from the previous format of `YYYY-MM - Journal` to `Journal`

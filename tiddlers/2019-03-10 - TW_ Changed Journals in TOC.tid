@@ -1,0 +1,9 @@
+created: 20190310060000000
+creator: jcsullivan2
+modified: 20190410142811629
+modifier: jcsullivan2
+tags: Changelog
+title: 2019-03-10 - TW: Changed Journals in TOC
+type: text/vnd.tiddlywiki
+
+Changed Journals in TOC to only show the month Tiddler, which now includes the reverse chronological list of journal entries.

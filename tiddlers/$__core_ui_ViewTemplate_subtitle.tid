@@ -1,6 +1,6 @@
 created: 20190215231401297
 creator: jcsullivan2
-modified: 20190215231549300
+modified: 20190410141025232
 modifier: jcsullivan2
 tags: $:/tags/ViewTemplate
 title: $:/core/ui/ViewTemplate/subtitle
@@ -8,6 +8,6 @@ type: text/vnd.tiddlywiki
 
 <$reveal type="nomatch" stateTitle=<<folded-state>> text="hide" tag="div" retain="yes" animate="yes">
 <div class="tc-subtitle">
-<$view field="created" format="date" template="mmm DDth YYYY"/>
+<$view field="created" format="date" template="mmm DDth YYYY at 0hh:0mm:0ss"/>
 </div>
 </$reveal>
