@@ -1,0 +1,14 @@
+created: 20190411202252804
+creator: jcsullivan2
+modified: 20190411202514923
+modifier: jcsullivan2
+tags: Software
+title: Isso Comments
+type: text/vnd.tiddlywiki
+
+[[Isso - a commenting server simlar to Disqus|https://posativ.org/isso/]]
+
+I installed Isso on my web server and added the functionality to my blog.
+
+I used this install guide: [[How to Install Isso|https://ericmathison.com/blog/how-to-install-isso-commenting-server-ubuntu-16-04/]]
+
