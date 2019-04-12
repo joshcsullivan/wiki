@@ -1,6 +1,6 @@
 created: 20190411202252804
 creator: jcsullivan2
-modified: 20190411202514923
+modified: 20190412143916805
 modifier: jcsullivan2
 tags: Software
 title: Isso Comments
@@ -12,3 +12,7 @@ I installed Isso on my web server and added the functionality to my blog.
 
 I used this install guide: [[How to Install Isso|https://ericmathison.com/blog/how-to-install-isso-commenting-server-ubuntu-16-04/]]
 
+Something to note, once I installed this, the submit and preview buttons didn't work. To fix this I needed to go back into the `isso.conf` file and add the blog URL `https://blog.joshsullivan.io` to the hosts. Otherwise you might get a CORS error.
+
+---
+* 2019-04-12 Update: Admin panel isn't working, getting a 405 Method Not Allowed and 301 Moved Permanently response. [[Posted an Issue on GitHub|https://github.com/posativ/isso/issues/549]]
