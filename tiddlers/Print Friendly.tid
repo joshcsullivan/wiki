@@ -1,9 +1,11 @@
 created: 20190410125239716
 creator: jcsullivan2
-modified: 20190410125406010
+modified: 20190414150641194
 modifier: jcsullivan2
 tags: Services
 title: Print Friendly
 type: text/vnd.tiddlywiki
 
-[[Print Friendly|https://www.printfriendly.com/]] is a online service that creates a de-cluttered PDF from a web page. Before exporting to PDF it gives you the option of deleting sections of the text it creates from the web page. I use it all the time to create very simple text PDFs from pages I find while browsing.
+[[Print Friendly|https://www.printfriendly.com/]] is an online service that creates a de-cluttered PDF from a web page. Before exporting to PDF it gives you the option of deleting sections of the text it creates from the web page. I use it all the time to create very simple text PDFs from pages I find while browsing.
+
+I use this service almost every day now and it continues to perform amazingly. It cuts down PDF creation from 6-8MB to .75-1.3MB.

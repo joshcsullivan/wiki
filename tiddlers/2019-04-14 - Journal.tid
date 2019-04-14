@@ -1,0 +1,19 @@
+created: 20190414133022930
+creator: jcsullivan2
+modified: 20190414154400177
+modifier: jcsullivan2
+tags: Journal
+title: 2019-04-14 - Journal
+type: text/vnd.tiddlywiki
+
+🌤 47-59ºF
+
+09:39 - Just found a bunch of mentions on Micro.blog of which I wasn't notified when they came through on the Micro.blog iOS app. I'm going to be setting a task to check the mentions every day.
+
+10:58 - After switching from `status` to `micro` for my Micro posts on my blog I need to remember to use micro, going to take some time.
+
+10:59 - I also need to remember `Ctrl + Return` in Alfred will use the default web search.
+
+11:08 - Time to install a few security patches for the VPS this wiki is on. Last time it took a while to get back up due to Tiddler Commander, this time I'm uninstalling it then will install updates. Hopefully back within 30 minutes.
+
+11:42 - Server Back up. I forgot I had Apache running on this server at one point and it caused an issue on restart. I spent most of the time looking for the issue. I'm going to be uninstalling Apache as I don't need it running anymore it was for something I used before hosting this wiki and [[YOURLS]] on it.
