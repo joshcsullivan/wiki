@@ -1,9 +1,9 @@
 created: 20190217153624403
 creator: jcsullivan2
-modified: 20190217154120480
+modified: 20190415121126865
 modifier: jcsullivan2
-tags: Scripts
+tags: Script
 title: AppleScript
 type: text/vnd.tiddlywiki
 
-<<list-links "[tag[AppleScript]]">>
+<<list-links filter:"[tag[$(currentTiddler)$]]">>

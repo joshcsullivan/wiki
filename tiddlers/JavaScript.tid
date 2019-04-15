@@ -1,9 +1,9 @@
 created: 20190217154356889
 creator: jcsullivan2
-modified: 20190217154833134
+modified: 20190415121140298
 modifier: jcsullivan2
-tags: Scripts
+tags: Script
 title: JavaScript
 type: text/vnd.tiddlywiki
 
-<<list-links "[tag[JavaScript]]">>
+<<list-links filter:"[tag[$(currentTiddler)$]]">>

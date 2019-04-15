@@ -1,0 +1,13 @@
+created: 20190415120348434
+creator: jcsullivan2
+modified: 20190415120436022
+modifier: jcsullivan2
+tags: TiddlyWiki
+title: TW: Get Current Tiddler as Tag
+type: text/vnd.tiddlywiki
+
+To populate a list tagged with the current Tiddler title:
+
+```
+<<list-links filter:"[tag[$(currentTiddler)$]]">>
+```

@@ -1,6 +1,6 @@
 created: 20190215202222264
 creator: jcsullivan2
-modified: 20190410141051208
+modified: 20190415121847325
 modifier: jcsullivan2
 tags: TableOfContents Wiki
 title: Changelog
@@ -8,4 +8,4 @@ type: text/vnd.tiddlywiki
 
 A Changelog for this wiki.
 
-<<list-links "[tag[Changelog]!sort[created]]">>
+<<list-links "[tag[Change]!sort[created]]">>

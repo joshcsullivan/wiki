@@ -1,0 +1,15 @@
+created: 20190415145209117
+creator: jcsullivan2
+modified: 20190415145617911
+modifier: jcsullivan2
+tags: [[Isso Comments]]
+title: Moving Isso Comment Database to New Server
+type: text/vnd.tiddlywiki
+
+If you are moving your Isso database to a new server, you can just copy the .db and .conf file to the new server then run the following to change the owner and group:
+
+```
+sudo chown username:username comments.db
+```
+
+Run this for both the .conf and .db file otherwise there might be errors.

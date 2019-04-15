@@ -1,0 +1,11 @@
+created: 20190415133848331
+creator: jcsullivan2
+modified: 20190415133940426
+modifier: jcsullivan2
+tags: 
+title: Linux Copy File to New Server
+type: text/vnd.tiddlywiki
+
+```
+scp /path/to/file username@IPADDRESS:/path/to/destination
+```

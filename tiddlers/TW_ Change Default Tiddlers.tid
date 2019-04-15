@@ -1,0 +1,9 @@
+created: 20190415120509183
+creator: jcsullivan2
+modified: 20190415120622620
+modifier: jcsullivan2
+tags: TiddlyWiki
+title: TW: Change Default Tiddlers
+type: text/vnd.tiddlywiki
+
+To change the default tiddler, the tiddlers that open when you go to the site, make the changes in: $:/DefaultTiddlers 

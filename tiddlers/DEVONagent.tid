@@ -1,0 +1,13 @@
+created: 20190415122931620
+creator: jcsullivan2
+modified: 20190415131242788
+modifier: jcsullivan2
+tags: Software
+title: DEVONagent
+type: text/vnd.tiddlywiki
+
+[[DEVONagent|https://www.devontechnologies.com/apps/devonagent]] is an amazing search software developed by [[DEVONtechnologies]].
+
+I've set up many different Plugins and Search sets to search common blogs I read. It's also a great tool to search different forums posting sites due to its ability to crawl the pages independently of a search engine.
+
+DEVONagent unfortunately doesn't search TiddlyWiki's but that is limitation of TiddlyWiki not having a default sitemap.xml.
