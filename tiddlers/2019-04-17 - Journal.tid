@@ -1,0 +1,17 @@
+created: 20190417093402610
+creator: jcsullivan2
+modified: 20190417144752716
+modifier: jcsullivan2
+tags: Journal
+title: 2019-04-17 - Journal
+type: text/vnd.tiddlywiki
+
+🌤 42-57ºF
+
+05:34 - It's going to be a long day full of ridiculous meetings that I really don't need to be a part of but am a required attendee. 
+
+06:01 - I need to figure out the correct location blocks in Nginx to serve TW via the same domain (ie. domain.com/tw1 and domain.com/tw2). I keep running into the issue of it looking for something at domain.com/status and even when routing status to after in the location blocks it was still throwing errors. Oh well, at least I have it working for wiki1.domain.com and wiki2.domain.com
+
+08:05 - Oracle's [[VirtualBox|https://www.virtualbox.org/]] is a great free VM solution for testing all kinds of issues and new products/updates.
+
+10:45 - It's always fun to spend two hours trying to fix an issue only to find out Microsoft deprecated one flag but the errors don't tell you which one.
