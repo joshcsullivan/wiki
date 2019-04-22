@@ -1,6 +1,6 @@
 created: 20190302145232009
 creator: jcsullivan2
-modified: 20190307134433663
+modified: 20190422122146469
 modifier: jcsullivan2
 tags: Blot
 title: Blot: To Do
@@ -9,7 +9,7 @@ type: text/vnd.tiddlywiki
 !!! To Do:
 
 * Re-create Main Entries page with only Titled posts
-* ''On Hold'' <<footnote "1" "Pagination cannot be used except on entries.html, David is working on adding this feature" >> Set Home page with link to Status Updates at the top, under header. 
+* ''On Hold'' <<footnote "1">> Set Home page with link to Status Updates at the top, under header. 
 * Fix Metadata for older posts
 
 !!! Done:
@@ -18,4 +18,4 @@ type: text/vnd.tiddlywiki
 * 20190304 - Added DuckDuckGo Search to the Footer.html
 * Code CSS Change for red text inline 
 
-<<footnotes "1" "I'm not sure why this post isn't available anywhere on my blogs. It was first posted to jackbaty.com and I happened to find it in the email notification from the post.">>
+<<footnotes "1"  "Pagination cannot be used except on entries.html, David is working on adding this feature" >>

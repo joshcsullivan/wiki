@@ -1,0 +1,17 @@
+created: 20190422125815655
+creator: jcsullivan2
+modified: 20190422130459177
+modifier: jcsullivan2
+tags: Blot
+title: Blot Templates
+type: text/vnd.tiddlywiki
+
+Blot templates are based off of [[mustache|https://mustache.github.io/mustache.5.html]].
+
+---
+!! Notes
+
+* If you disabled local editing, it is best to delete any folders within the templates folder in your local install of Blot. For example if you have a template named `blog` then delete the entire blog folder to avoid conflicts. <<footnote "Reason">>
+
+---
+<<footnotes "Reason" "David is currently working on fixing the conflict issue, but recommends deleting the folders within templates once you disable local editing for a template. This is the case for both Dropbox and Git clients.">>
