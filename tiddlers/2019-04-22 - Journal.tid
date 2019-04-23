@@ -1,6 +1,6 @@
 created: 20190422100514316
 creator: jcsullivan2
-modified: 20190422135350626
+modified: 20190422175922340
 modifier: jcsullivan2
 tags: Journal
 title: 2019-04-22 - Journal
@@ -11,3 +11,5 @@ type: text/vnd.tiddlywiki
 06:05 - Missed writing the journal in this wiki yesterday but I had a draft in [[Drafts]] that I updated throughout the day. Today I created a journal entry for yesterday and thanks to [[TW: Tiddler Commander]] I was able to easily change the Creation date to yesterday.
 
 09:53 - Split photos to a new Blot.im blog: [[photos.joshsullivan.io|https://photos.joshsullivan.io]]
+
+13:55 - I started using the built in assets for my blog and photos blog. I don't like having to grab the URL from Wasabi via the web page every time. Due to Transmit on iOS going away and it being the only option to grab the URL it wasn't worth it to keep using File Browser to try a duct tape solution. It's easier on iOS to add a image file to Working Copy then grab the short URL.
