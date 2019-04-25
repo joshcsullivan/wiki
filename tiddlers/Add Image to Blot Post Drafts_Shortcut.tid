@@ -1,0 +1,13 @@
+created: 20190425094937849
+creator: jcsullivan2
+modified: 20190425095754610
+modifier: jcsullivan2
+tags: Shortcuts Drafts
+title: Add Image to Blot Post Drafts/Shortcut
+type: text/vnd.tiddlywiki
+
+Thanks to [[@gabz|https://micro.blog/gabz]] I found the Shortcut/Drafts Action to add an image to Micro.blog then paste the link in Drafts. 
+
+[[Craig MClellan]] came up with the Shortcut and Drafts Actions: [[Micro.blog Image and Podcast Posting with Workflow and Drafts|https://craigmcclellan.com/2018/07/05/microblog-image-and.html]].
+
+I've recreated the Shortcut to work with [[Blot]]. It renames the image, converts to JPEG, then saves to my Blot assets folder in Dropbox, it creates markdown code for an image with the path and name filled out, then back in Drafts it pastes the return from the Shortcut.
