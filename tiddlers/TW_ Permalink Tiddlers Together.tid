@@ -1,0 +1,28 @@
+created: 20190430122413523
+creator: jcsullivan2
+modified: 20190430124213170
+modifier: jcsullivan2
+tags: TiddlyWiki
+title: TW: Permalink Tiddlers Together
+type: text/vnd.tiddlywiki
+
+I recently found out that TiddlyWiki doesn't have the ability to update links within Tiddlers if a name of the linked Tiddler is changed.
+
+Thanks to [[this GG thread|https://groups.google.com/d/msg/tiddlywiki/Y1V7oyBLpSs/9ZZFF0IGG8MJ]] I found a way to link with the name of the tiddler still usable and even if the name changes the link will still stay.
+
+Originally I was going to create a UUID field for the tiddler then link to that UUID, but I was going to use the date created instead of trying to create a completely unique identifier because it's easier to keep track of and due to TiddlyWiki recording down to the millisecond it is highly unlikely that ''I''<<footnote "Me, Myself, and I">> will ever create two Tiddlers at exactly the same time.
+
+# Copy the created value, found in Info.
+# In the tiddler you want to link from, you paste one of the following options:
+
+```
+<$list filter=[field:created[YOUR_UUID_VALUE_GOES_HERE]!has[draft.of]] />
+```
+```
+{{{ [field:created[YOUR_UUID_VALUE_GOES_HERE]!has[draft.of]] }}}
+```
+
+Next I created [[TextExpander]] snippet with `{{{ [field:created[CLIPBOARD]!has[draft.of]] }}}` now I can copy the date created from the Tiddler, go to the new tiddler and type the snippet abbreviation and the link is created and stays through Tiddler renames.
+
+---
+<<footnotes "Me, Myself, and I" "You might do this, but I know I will not, no need to tell my how it could happen, I'm sure it could happen to you, it just won't happen to me">>

@@ -1,0 +1,15 @@
+created: 20190430095940744
+creator: jcsullivan2
+modified: 20190430124235578
+modifier: jcsullivan2
+tags: Journal
+title: 2019-04-30 - Journal
+type: text/vnd.tiddlywiki
+
+🌧 41-50ºF
+
+05:58 - Not sure how I missed multi tiered lists in TiddlyWiki by using multiple `*`'s
+
+08:15 - I like the UK date format and have switch both my blog and this wiki to format dates DD MMM YYYY
+
+08:42 - {{{ [field:created[20190430122413523]!has[draft.of]] }}}

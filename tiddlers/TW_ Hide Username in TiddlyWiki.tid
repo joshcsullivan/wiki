@@ -1,9 +1,9 @@
 created: 20190215202443512
 creator: jcsullivan2
-modified: 20190415121839176
+modified: 20190430121107757
 modifier: jcsullivan2
-tags: Change
-title: 2019-02-15 - TW: Hide Username in TiddlyWiki
+tags: TiddlyWiki
+title: TW: Hide Username in TiddlyWiki
 type: text/vnd.tiddlywiki
 
 To hide the username of who edited a Tiddler:

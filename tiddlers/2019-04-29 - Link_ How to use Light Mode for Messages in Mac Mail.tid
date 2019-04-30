@@ -1,6 +1,6 @@
 created: 20190429180851547
 creator: jcsullivan2
-modified: 20190429181117511
+modified: 20190430123126664
 modifier: jcsullivan2
 tags: Link
 title: 2019-04-29 - Link: How to use Light Mode for Messages in Mac Mail
@@ -12,9 +12,9 @@ type: text/vnd.tiddlywiki
 <<<
 ''How to use Light Mode for email and Dark Mode everywhere else on Mac'' 
 
-1. Enable Dark Mode in System Preferences → General → Appearance → Dark
+# Enable Dark Mode in System Preferences → General → Appearance → Dark
 
-2. Launch Mail → Use Command ⌘ + , keyboard shortcut or click Mail then Preferences in the top left corner of the menu bar
+# Launch Mail → Use Command ⌘ + , keyboard shortcut or click Mail then Preferences in the top left corner of the menu bar
 
-3. Click the Viewing section and uncheck ‘Use dark mode for messages’
+# Click the Viewing section and uncheck ‘Use dark mode for messages’
 <<<

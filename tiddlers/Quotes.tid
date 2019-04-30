@@ -1,0 +1,9 @@
+created: 20190430125337434
+creator: jcsullivan2
+modified: 20190430125452858
+modifier: jcsullivan2
+tags: TableOfContents
+title: Quotes
+type: text/vnd.tiddlywiki
+
+<<list-links "[tag[Quote]!sort[created]]">>
