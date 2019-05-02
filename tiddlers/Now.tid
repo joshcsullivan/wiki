@@ -1,17 +1,17 @@
 created: 20190415115217111
 creator: jcsullivan2
-modified: 20190415115939631
+modified: 20190501171150369
 modifier: jcsullivan2
 tags: TableOfContents
 title: Now
 type: text/vnd.tiddlywiki
 
-! What I'm doing as of April 15, 2019:
+! What I'm doing as of 15 April, 2019:
 
 * Building out a public TiddlyWiki, which you are currently visiting. It's been a great experience and very helpful in scratching the itch to tinker with things.
 * Implemented a self-hosted link shortener, [[YOURLS]].
 * Adding commenting on [[my blog|https://blog.joshsullivan.io]] via [[Isso Comments]].
 
-! iPhone Home Screen as of April 1, 2019:
+! iPhone Home Screen as of 1 May, 2019:
 
-<img src="https://s3.wasabisys.com/jcs-blog/assets/images/2019/20190401-Home_Screen.PNG" alt="January 2019 iPhone Home Screen" width="300" class="center">
+<img src="https://s3.wasabisys.com/jcs-blog/assets/images/2019/20190501-Home_Screen.PNG" alt="January 2019 iPhone Home Screen" width="300" class="center">
