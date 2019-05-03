@@ -1,0 +1,18 @@
+created: 20190503154511058
+creator: jcsullivan2
+modified: 20190503155156352
+modifier: jcsullivan2
+tags: 
+title: VMware Workstation Pro
+type: text/vnd.tiddlywiki
+
+[[VMware Workstation Pro|https://www.vmware.com/products/workstation-pro.html]]
+
+<<<
+Build and Test for any platform with VMware Workstation
+VMware Workstation Pro is the industry standard for running multiple operating systems as virtual machines (VMs) on a single Linux or Windows PC. IT professionals, developers and businesses who build, test or demo software for any device, platform or cloud rely on Workstation Pro.
+<<<
+
+---
+
+I'm testing this out as a new VM software for work. We currently use VMware for our VDI environment, but for quick spin up machines I've used Oracle's VirtualBox which is good, but not the best. The reason for the switch is to see if UEFI network boot works in VMware, which it currently doesn't work in VirtualBox.

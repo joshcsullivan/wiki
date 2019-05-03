@@ -1,0 +1,13 @@
+created: 20190503152204499
+creator: jcsullivan2
+modified: 20190503152537249
+modifier: jcsullivan2
+tags: Service
+title: Monica CRM
+type: text/vnd.tiddlywiki
+
+[[Monica CRM|https://monicahq.com]] is a personal CRM service. You can either pay for a subscription where the company will host and manage the data, or you can self-host it. 
+
+Since I am all about self-hosting, I set it up on my server following these instructions: [[How to Install Monica Personal Relationship Manager on Ubuntu 18.04 LTS|https://www.howtoforge.com/how-to-install-monica-on-ubuntu-1804/]]
+
+So far I really like it, it's the first real CRM I've used for personal contacts instead of [[TheBrain]] and [[DEVONthink]]
