@@ -1,0 +1,13 @@
+created: 20190511144847149
+creator: jcsullivan2
+modified: 20190511145821971
+modifier: jcsullivan2
+tags: Alfred
+title: Add to DEVONthink 3 Alfred Workflow
+type: text/vnd.tiddlywiki
+
+I've created an Alfred workflow that will act like the DEVONthink 3 service to add files to the Global Inbox.
+
+''Beware clicking the link will download the ZIP file immediately''
+
+[[Add to DEVONthink 3|https://s3.wasabisys.com/jcs-wiki/uploads/2019/Add to DEVONthink 3.alfredworkflow.zip]]
