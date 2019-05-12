@@ -1,6 +1,6 @@
 created: 20190216020100383
 creator: jcsullivan2
-modified: 20190216020343790
+modified: 20190512120827181
 modifier: jcsullivan2
 tags: Software
 title: DEVONthink
@@ -8,7 +8,25 @@ type: text/vnd.tiddlywiki
 
 I use DEVONthink as my cold/long term storage option. It is great for archiving email as well.
 
+!! My Databases
+* Documents
+** Software licenses and Receipts
+*** I print the license and receipt emails to PDF then save them to DEVONthink.
+* Finance
+** All tax documents that come in get scanned via my [[ScanSnap iX1500]] then added to this database. Each tax year is separated into groups. Due to DEVONthink 3 I recently recreated this database as an encrypted database on disk.
+* Knowledge Base 
+** Mixture of Notes, PDFs, Bookmarks, and digital books. 
+** The KB database compromises of material I have collected over the years of anything that piqued my interest. I'm a bit of a pack rat when it comes to information, due to previously being burned when a webpage was taken down. Now if I find it interesting I'll most likely save it as Clutter Free PDF with [[Print Friendly]].
+* Notes 
+** Since DEVONthink 3 came out in beta, I've switched all of my notes over to DEVONthink, because I can access them on all my Apple devices through the apps, and on my Windows devices via the Server feature.
+** These notes include work notes and personal technology notes.
+* Personal
+** Notes and documents on personal information such as my SO's measurements, medical records, car, and house information.
+* Pinboard
+** This database is based of a script that pulls anything in your Pinboard account down as clutter free markdown, if that is not possible, it gets a clutter free PDF of the page.
+* Read Later
+** I've recently started to Web Archive and print to PDF articles I want to read later. It's offline on my devices, I can then file them away later in DEVONthink, I can search full text, and it's my data, not subjected to a company or person deciding to stop developing their service.
+
+
 !! External Links
-
-
 * [[PhD Tools: DevonThink for File Storage and Discovery|https://www.alexstrick.com/blog/phd-tools-devonthink]]

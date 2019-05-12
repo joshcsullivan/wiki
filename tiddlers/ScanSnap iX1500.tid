@@ -1,0 +1,17 @@
+created: 20190512121153313
+creator: jcsullivan2
+modified: 20190512121743897
+modifier: jcsullivan2
+tags: Hardware
+title: ScanSnap iX1500
+type: text/vnd.tiddlywiki
+
+[img[https://www.fujitsu.com/global/imagesgig5/img_ix1500_front_tcm100-3869850_tcm100-2750236-32.jpg]]
+
+[[Fujitsu ScanSnap iX1500|https://www.fujitsu.com/global/products/computing/peripheral/scanners/scansnap/ix1500/]] is the first document scanner I have personally owned.
+
+For all the electronic versions you can request, we are still heavily a paper world. I hate keeping paper, it's hard to keep track of, time consuming to search through, and takes up so much space. Whereas the electronic copy takes up no extra physical space, easy to search through and therefore requires little energy to keep track of.
+
+Since purchasing it for release day, I've fallen in love with this device. It processes scans quickly, including the 10-20 receipts I have to scan at the end of the week and easily through large documents.
+
+On macOS it's scriptable via AppleScript, I've already created multiple scripts for processing, OCRing, tagging, adding to DEVONthink.
