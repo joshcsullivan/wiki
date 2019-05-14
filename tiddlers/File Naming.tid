@@ -1,0 +1,15 @@
+created: 20190514154511839
+creator: jcsullivan2
+modified: 20190514155721332
+modifier: jcsullivan2
+tags: 
+title: File Naming
+type: text/vnd.tiddlywiki
+
+All text files are prefixed with the date created: `YYYYMMDD-` This is due to the way I think, but also due to cloud storage syncing destroying the date created during sync. 
+
+If there are going to be multiple versions of the file, or if there might be another file with the same name on the same day the file would begin with: `YYYYMMDD-HHMMSS-` which allows me to know which version of the file came first. The hour is always in 24 hour time, based on the East Coast time zone.
+
+Photos are named: `YYYYMMDD-HHMMSS.ext`
+
+Blog Posts for Blot: `YYYYMMDD-HHMMSS.txt` - Due to Windows not being able to easily/native search Markdown files, I keep these as .txt files because Blot will still take the text file and render the markdown correctly.
