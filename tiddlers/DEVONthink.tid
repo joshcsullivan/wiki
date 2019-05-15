@@ -1,6 +1,6 @@
 created: 20190216020100383
 creator: jcsullivan2
-modified: 20190512120827181
+modified: 20190514201526265
 modifier: jcsullivan2
 tags: Software
 title: DEVONthink
@@ -16,7 +16,7 @@ I use DEVONthink as my cold/long term storage option. It is great for archiving 
 ** All tax documents that come in get scanned via my [[ScanSnap iX1500]] then added to this database. Each tax year is separated into groups. Due to DEVONthink 3 I recently recreated this database as an encrypted database on disk.
 * Knowledge Base 
 ** Mixture of Notes, PDFs, Bookmarks, and digital books. 
-** The KB database compromises of material I have collected over the years of anything that piqued my interest. I'm a bit of a pack rat when it comes to information, due to previously being burned when a webpage was taken down. Now if I find it interesting I'll most likely save it as Clutter Free PDF with [[Print Friendly]].
+** The KB database is comprised of material I have collected over the years of anything that piqued my interest. I'm a bit of a pack rat when it comes to information, due to previously being burned when a webpage was taken down. Now if I find it interesting I'll most likely save it as Clutter Free PDF with [[Print Friendly]].
 * Notes 
 ** Since DEVONthink 3 came out in beta, I've switched all of my notes over to DEVONthink, because I can access them on all my Apple devices through the apps, and on my Windows devices via the Server feature.
 ** These notes include work notes and personal technology notes.
