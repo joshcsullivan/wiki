@@ -1,11 +1,11 @@
 created: 20190215225302262
 creator: jcsullivan2
-modified: 20190430121506792
+modified: 20190516161334418
 modifier: jcsullivan2
 tags: $:/tags/ViewTemplate
 title: Modified Date Footer
 type: text/vnd.tiddlywiki
 
 <br><div class="tc-subtitle">
-(Last updated: <$view field="modified" format="date" template="DD mmm YYYY"/>)
+(Last updated: <$view field="modified" format="date" template="DD mmm YYYY hh:mm:ss"/>)
 </div>
