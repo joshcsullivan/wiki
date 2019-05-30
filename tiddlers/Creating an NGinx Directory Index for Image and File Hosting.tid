@@ -1,0 +1,43 @@
+created: 20190530141419470
+creator: jcsullivan2
+modified: 20190530144135047
+modifier: jcsullivan2
+tags: DigitalOcean
+title: Creating an NGinx Directory Index for Image and File Hosting
+type: text/vnd.tiddlywiki
+
+Due to [[Phil's|Phil Nunnally]] post on his wiki about [[Self Hosting Images|https://youneedastereo.com/#how%20I%20self-host%20images%20in%20this%20wiki]] I reached out to him how he had set it up and then realized I had already done something similar but forgot about it.
+
+I'm listing out the steps I took to set up the NGinx Directory Index Listing.
+
+On a DigitalOcean droplet (or any Ubuntu/Linux VPS) already set up with Nginx, follow these steps:
+
+# Get a domain or subdomain for the new site. In this example I used static.domain.com
+# To restrict it you can create a new folder in the home directory of your user profile, for example mine is `/home/josh/public` 
+# While SSH'd into the VPS, navigate to `/etc/nginx/sites-available/` then created the `static.domain.com` by entering (or another text editor) `sudo nano static.domain.com`
+# In the File put the following (make sure to change the path in root to your path)<span>
+
+```
+server {
+        server_name static.domain.com;
+        root /home/josh/public;
+        autoindex on;
+        autoindex_exact_size off;
+        autoindex_format html;
+        autoindex_localtime on; 
+}
+```
+</span>
+
+
+# Next you need to enable the site via Symbolic link: `sudo ln -s /etc/nginx/sites-available/static.domain.com /etc/nginx/sites-enabled/ - Symbolic links site to enabled`
+# For an SSL Cert if you have cert bot install you can skip to step 9, otherwise continue to 7
+# Enter `sudo apt install certbot - Install Certbot`
+# Enter `sudo apt-get install python-certbot-nginx` - Installs Nginx Certbot
+# Enter `sudo certbot --nginx` - Create HTTPS cert with Let’s Encrypt
+# Select whichever domains you want your cert to cover
+# Press 2 to redirect HTTP traffic to HTTPS, this is recommended - The conf files for your selected domains will be updated with the cert information automatically
+
+You should now be able to access your NGinx directory index at `static.domain.com`
+
+Source: [[Enabling the Nginx Directory Index Listing|https://www.keycdn.com/support/nginx-directory-index]]
