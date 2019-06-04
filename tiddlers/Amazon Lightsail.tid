@@ -1,0 +1,15 @@
+created: 20190604144354849
+creator: jcsullivan2
+modified: 20190604144557952
+modifier: jcsullivan2
+tags: 
+title: Amazon Lightsail
+type: text/vnd.tiddlywiki
+
+[[Amazon Lightsail|https://aws.amazon.com/lightsail/]]
+
+<<<
+Virtual servers, storage, databases, and networking for a low, predictable price.
+<<<
+
+I use DigitalOcean for my production servers and also my test servers. I am thinking of setting up a backup server on Lightsail for one of my new clients so it isn't within the same provider for both the production and recovery server.

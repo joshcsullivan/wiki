@@ -1,0 +1,13 @@
+created: 20190604144817058
+creator: jcsullivan2
+modified: 20190604151055586
+modifier: jcsullivan2
+tags: 
+title: Dropbox vs Google Drive Video Sharing
+type: text/vnd.tiddlywiki
+
+Recently I've been recording a bunch of screencasts and sharing them. Through the process I've shared to both Dropbox and Google Drive, when getting the shared link via Dropbox the video file, no matter how big, it is immediately available once synced to Dropbox. Whereas Google Drive you upload then have to wait 5-10 minutes for Google to //process// the video. Not sure what they are doing to process the video but it takes a while.
+
+Another thing is that if you upload a 1080p video to Dropbox it plays in 1080p, on Drive it will start playing in 720p (maybe what is happening during processing?) and the person watching will need to change the resolution to 1080p manually.
+
+So for now I'll be sticking with Dropbox as my sharing tool, I pay for the 2TB plan and like it a lot.
