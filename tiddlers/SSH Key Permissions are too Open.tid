@@ -1,0 +1,13 @@
+created: 20190605121836731
+creator: jcsullivan2
+modified: 20190605122910669
+modifier: jcsullivan2
+tags: 
+title: SSH Key Permissions are too Open
+type: text/vnd.tiddlywiki
+
+Recently I've been using SSH more and due to this I needed to add my SSH key to another machine. Once moved over I hit an error where Terminal stated that the Permissions are too open on the key. A quick Google search and I found [[this link|https://stackoverflow.com/questions/9270734/ssh-permissions-are-too-open-error]]. I took the first suggestion of 400 and that was too restrictive so switched to 600 and that worked correctly:
+
+```
+chmod 600 ~/.ssh/id_rsa
+```

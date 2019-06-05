@@ -1,0 +1,15 @@
+created: 20190605143110599
+creator: jcsullivan2
+modified: 20190605143528268
+modifier: jcsullivan2
+tags: Blot
+title: Blog.joshsullivan.io
+type: text/vnd.tiddlywiki
+
+I've been using [[Blog.joshsullivan.io|https://blog.joshsullivan.io]] as my main blog since 22 December 2018. It is a [[Blot]] blog and all content is hosted in Dropbox.
+
+I briefly tried using Git as the sync client, but went back to Dropbox because it was far easier.
+
+---
+! Log
+* Update: 5 June 2019 10:34 - Changed to a Dark theme for my blog that matches this wiki.

@@ -1,6 +1,6 @@
 created: 20190225144933872
 creator: jcsullivan2
-modified: 20190225150323800
+modified: 20190605154446010
 modifier: jcsullivan2
 tags: $:/tags/RawMarkupWikified/TopBody
 title: $:/jab/SplashScreen
@@ -19,12 +19,12 @@ type: text/vnd.tiddlywiki
 	margin: 20px auto 0;
 	width: 600px;
 	text-align: center;
-	color: <<colour foreground>>;
+	color: white;
 	fill: <<colour foreground>>;
 }
 
 html body.tc-body {
-	background: <<colour page-background>>;
+	background: #2A2B30;
 }
 </style>
 
