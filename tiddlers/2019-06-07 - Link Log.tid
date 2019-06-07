@@ -1,0 +1,14 @@
+created: 20190607160204626
+creator: jcsullivan2
+modified: 20190607160954628
+modifier: jcsullivan2
+tags: 
+title: 2019-06-07 - Link Log
+type: text/vnd.tiddlywiki
+
+* [[Tools - Canion.me|https://canion.me/tools]] - Updated with new tools and processes
+* [[Read-it-Later with... - Canion.me|https://canion.me/read-it-later-with]] - Andrew dropped Instapaper in favor of Safari Reading List and DEVONthink
+* [[Daily software stack as of June 06, 2019 - Baty.blog|https://www.baty.blog/2019/daily-software-stack-june-06]] - Updated with current apps and tools used.
+* [[Discussion on using TheBrain - Micro.blog|https://micro.blog/jack/3935393]]
+* [[Discussion on Syncing DEVONthink Databases - Micro.blog|https://micro.blog/canion/3934897]]
+* [[Automatically backup up the full contents of your Pinboard (and Pocket) bookmarks in DEVONThink|https://tyler.io/automatically-backup-the-full-contents-of-your-pinboard-and-pocket-bookmarks-in-devonthink/]] - A different way to import Pinboard items to DEVONthink. Unfortunately this uses web archives which are prone to change if dynamic content is changed, which is why I use PDFs or Markdown.
