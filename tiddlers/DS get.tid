@@ -1,0 +1,13 @@
+created: 20190619113001036
+creator: jcsullivan2
+modified: 20190619113030754
+modifier: jcsullivan2
+tags: 
+title: DS get
+type: text/vnd.tiddlywiki
+
+[[DS get|https://www.synology.com/en-global/knowledgebase/Mobile/help/DSget/iOS_iPhone]] was a great way to initiate a download to your Synology on iOS. Unfortunately, Synology got scared of Apple cracking down on the ability for Synology users to use the app for downloading torrents and pulled the app.
+
+I often used it to download new software that comes out once a quarter so that I have an archive of the previous versions. I can still use DS get via the Purchased area in the App Store app, but I'm guessing with iOS 13 DS get will no longer work.
+
+Now I'll have to remote into the Synology to initiate the download. 
