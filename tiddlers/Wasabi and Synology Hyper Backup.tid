@@ -1,0 +1,11 @@
+created: 20190621130338475
+creator: jcsullivan2
+modified: 20190621130504339
+modifier: jcsullivan2
+tags: 
+title: Wasabi and Synology Hyper Backup
+type: text/vnd.tiddlywiki
+
+Somehow I missed that you can use [[Wasabi with Synology Hyper Backup|https://wasabi-support.zendesk.com/hc/en-us/articles/115001684131-How-do-I-use-Synology-with-Wasabi-]].
+
+I use Hyper Backup with external drives and now I can use Wasabi directly from the Synology instead of using Arq.

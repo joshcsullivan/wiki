@@ -1,0 +1,55 @@
+created: 20190621130516845
+creator: jcsullivan2
+modified: 20190621142907937
+modifier: jcsullivan2
+tags: 
+title: Enable HTTPS Resilio Sync on Synology
+type: text/vnd.tiddlywiki
+
+[[Source - Synology Forum|https://community.synology.com/enu/forum/17/post/91150]]
+
+1. Get your certificate and key. Easy way is to export them in the control panel > security > certificate. 
+
+2. Now extract the certificate and key. Put them on your NAS in a share and rename them to something easy. I'm using my public share but this may be different for you so adjust the commands as needed. I have name my cert and key "server.crt" and "server.key". If you name them something else, you will need to reflect the changes in the config later on. 
+
+3. In putty, login with "admin" and use your admin password. Next we need to get root access. Use "sudo -i" and the admin password. You should now have root access and your promt should display it. Now run the following commands. The files should automatically have the permissions and owner changed when Sync starts up.
+
+```
+cp /volume1/public/server.crt /volume1/@appstore/resiliosync/var/
+```
+
+```
+cp /volume1/public/server.key /volume1/@appstore/resiliosync/var/
+```
+
+3. Now to change the config to run with HTTPS and have Sync load the SSL files. Still using putty, run the following commands:
+
+```
+cd /volume1/@appstore/resiliosync/var
+```
+
+```
+vi sync.conf
+```
+
+Now things get tricky. If you entered the vi command right, you should be seeing your current config of Sync. 
+
+4. Now press "Esc" twice and press "i". 
+
+You should now have "--INSERT--" at the very bottom left of the screen in putty. You are now in edit mode. 
+
+5. Look for the line that has "allow_empty_password" and using your arrow keys, go to the very end of the line. It will have a "," at the end and maybe some spaces. Got to the end until the cursor stops and add a return. It should have added a blank line. Now add the following, NOTE THE "COMMAS" AT THE END OF EVERY LINE. 
+
+You should be able to copy and paste (right click in putty will paste) this if you added the return.
+
+```
+"force_https" : true,
+"ssl_certificate" : "/volume1/@appstore/resiliosync/var/server.crt",
+"ssl_private_key" : "/volume1/@appstore/resiliosync/var/server.key",
+```
+
+If you made an error or something, you can start over. You just need to quit vi without saving. To do so, hit "Esc", the "--INSERT--" should go away. Now press ":", thats a colon and it should now display at the bottom left. Type "q!" and press enter. It should exit vi and leave the config unchanged to start again on. 
+
+If you are done with the changes, press "Esc" ("--INSERT--" should go away) then ":wq" followed by enter. You should now have edited the config to use SSL. Exit putty by typing exit twice.
+
+6. Now start BYSYNC from the package manager. If you get an error, it most likely due to an error in the config file you edited. If Sync runs, you should now have HTTPS forced and using your SSL certificate.
