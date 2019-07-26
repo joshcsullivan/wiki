@@ -1,0 +1,17 @@
+created: 20190725192502221
+creator: jcsullivan2
+modified: 20190725192639386
+modifier: jcsullivan2
+tags: 
+title: 2019-07-25 - Synology SRM 1.2.3-8017
+type: text/vnd.tiddlywiki
+
+<<<
+What's New
+
+# Added support for Let's Encrypt.
+# Added support for the Let's Encrypt wildcard certificates for the Synology DDNS domains.
+# Added support for DNS over HTTPS (DoH)
+<<<
+
+Woohooooo! Let's Encrypt support, no more creating the cert locally then importing it to SRM.
