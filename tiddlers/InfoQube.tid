@@ -1,0 +1,13 @@
+created: 20190805154744768
+creator: jcsullivan2
+modified: 20190805155714923
+modifier: jcsullivan2
+tags: Software
+title: InfoQube
+type: text/vnd.tiddlywiki
+
+[[InfoQube|http://www.infoqube.biz/]] is an Information Management System.
+
+My role is changing and I'll be required to be on a Windows computer for work. Due to that change, I needed a new database application that could handle a large collection of notes, while giving me other features. InfoQube is an amazing application that accomplishes these goals and much more. It is Windows only, but that is fine because I really need to keep work information on work systems. InfoQube at it's core is an SQL database with ridiculous amounts of power added on top. I've already imported a Gantt chart into it, and it has a great view for Gantt charts which have native support in IQ.
+
+So far I am really impressed with IQ and have migrated over about ~300 notes and have already //purchased// a license. It is still in beta phase, so you can't purchase a direct license, but you can donate more than $30 and receive a license for when 1.0 is out. IQ has been in development for many years, and reading through the release notes, it keeps getting better.
