@@ -1,0 +1,11 @@
+created: 20190806155432013
+creator: jcsullivan2
+modified: 20190806155654135
+modifier: jcsullivan2
+tags: InfoQube
+title: 2019-08-06 - InfoQube Update
+type: text/vnd.tiddlywiki
+
+I'm now running InfoQube on a USB key as well as my desktop. The DB is currently on a network folder, so I can now go to any computer on campus, sign in, plug in the USB and launch IQ and it connects to my databases, because the network drive mapped on all sign ins. No need to install IQ to the local computer, it runs completely independent on the USB.
+
+I'm really falling in love with this software.
