@@ -1,0 +1,11 @@
+created: 20190808150441552
+creator: jcsullivan2
+modified: 20190808151751914
+modifier: jcsullivan2
+tags: InfoQube
+title: InfoQube Keyboard Shortcuts
+type: text/vnd.tiddlywiki
+
+* `Ctrl+E` - Open Item Editor
+* `Shift+F6` - Focus on Document Pane
+* `Shift+Ctrl+M` - New Markdown Document

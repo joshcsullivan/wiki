@@ -1,0 +1,11 @@
+created: 20190808143102688
+creator: jcsullivan2
+modified: 20190808143501233
+modifier: jcsullivan2
+tags: Journal
+title: 2019-08-08 - Journal
+type: text/vnd.tiddlywiki
+
+10:31 - I just realized the last time I posted to my blog was 2 weeks ago, 😲. I find I like posting to this wiki more, not sure why though.
+
+10:34 - I need to remember to remove the A records for domains when I stop using a service, because I end up using A record and it is still pointing to the old VPS.
