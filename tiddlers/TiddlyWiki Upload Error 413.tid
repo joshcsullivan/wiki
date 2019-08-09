@@ -1,0 +1,21 @@
+created: 20190808180841089
+creator: jcsullivan2
+modified: 20190808182533744
+modifier: jcsullivan2
+tags: TiddlyWiki
+title: TiddlyWiki Upload Error 413
+type: text/vnd.tiddlywiki
+
+If you receive this error `XMLHttpRequest error code: 413` when importing a file via drag and drop to TiddlyWiki, add the following the Nginx conf for the domain, in the server bracket, before the SSL information:
+
+```
+client_max_body_size 0;
+```
+
+After adding it, restart the Nginx service:
+
+```
+sudo service nginx restart
+```
+
+You can no drag and drop large files to the wiki.

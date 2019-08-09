@@ -1,9 +1,9 @@
 created: 20190808130217977
 creator: jcsullivan2
-modified: 20190808130351779
+modified: 20190808174757800
 modifier: jcsullivan2
 tags: Software
-title: 2019-08-08 - Trilium
+title: Trilium
 type: text/vnd.tiddlywiki
 
 [[Trilium|https://github.com/zadam/trilium]] is an open source, note application. You can run it locally, or via a server.
