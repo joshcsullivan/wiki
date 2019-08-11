@@ -1,0 +1,39 @@
+created: 20190811103019943
+creator: jcsullivan2
+modified: 20190811122627800
+modifier: jcsullivan2
+tags: TextExpander AppleScript
+title: AS: Get Front Tab as TiddlyWiki Link
+type: text/vnd.tiddlywiki
+
+The following is a useful AppleScript that will get the frontmost tab of either Brave or Safari and paste a TiddlyWiki link.
+
+First set the content type of the snippet to AppleScript:
+
+```applescript
+tell application "System Events"
+	set numSafari to count (every process whose name is "Safari")
+	set numBrave to count (every process whose name is "Brave Browser")
+end tell
+
+if numBrave > 0 then
+	tell application "Brave Browser"
+		set frontIndex to active tab index of front window
+		set chromeURL to URL of tab frontIndex of front window
+		set chromeTitle to title of tab frontIndex of front window
+		set chromeMLink to "[[" & chromeTitle & "|" & chromeURL & "]]"
+		return chromeMLink
+		set the clipboard to chromeMLink
+	end tell
+else
+	if numSafari > 0 then
+		tell application "Safari"
+			set safariURL to URL of front document
+			set safariTitle to the name of front document
+			set safariMLink to "[[" & safariTitle & "|" & safariURL & "]]"
+			return safariMLink
+			set the clipboard to safariMLink
+		end tell
+	end if
+end if
+```

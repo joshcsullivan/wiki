@@ -1,9 +1,9 @@
 created: 20190808180841089
 creator: jcsullivan2
-modified: 20190810130207679
+modified: 20190811111322536
 modifier: jcsullivan2
 tags: TiddlyWiki
-title: TiddlyWiki Upload Error 413
+title: TW: Upload Error 413
 type: text/vnd.tiddlywiki
 
 If you receive this error `XMLHttpRequest error code: 413` when importing a file via drag and drop to TiddlyWiki, add the following the Nginx conf for the domain, in the server bracket, before the SSL information:

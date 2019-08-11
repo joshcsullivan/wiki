@@ -1,0 +1,12 @@
+created: 20190811111322807
+creator: jcsullivan2
+modified: 20190811111517526
+modifier: jcsullivan2
+tags: TiddlyWiki
+title: TW: Change SideBar Order
+type: text/vnd.tiddlywiki
+
+To change the order of the side bar:
+
+# Create the new sidebar Tiddler then tag with `$:/tags/SideBar`
+# Add the `list-before` or `list-after` and use the name of the sidebar item you want the new item before or after in the field value

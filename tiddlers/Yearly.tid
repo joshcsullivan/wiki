@@ -1,0 +1,14 @@
+created: 20190811105610186
+creator: jcsullivan2
+modified: 20190811113249224
+modifier: jcsullivan2
+tags: 
+title: Yearly
+type: text/vnd.tiddlywiki
+
+<$set name="day" value=<<now -0MM-0DD>>>
+<$set name="year" value=<<now YYYY>>>
+<<list-links "[search:title<day>!prefix<year>]">>
+</$set>
+</$set>
+

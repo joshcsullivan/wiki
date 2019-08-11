@@ -1,0 +1,11 @@
+created: 20190811125737117
+creator: jcsullivan2
+modified: 20190811130808528
+modifier: jcsullivan2
+tags: TheBrain
+title: Hide TheBrain Thought Types in the Plex
+type: text/vnd.tiddlywiki
+
+To hide thought types in the plex, right click on the thought type and uncheck "Visible when Parent of Active Thought":
+
+[img[/files/20190811-085050.png]]

@@ -1,0 +1,13 @@
+created: 20190811103318169
+creator: jcsullivan2
+modified: 20190811122559979
+modifier: jcsullivan2
+tags: Journal
+title: 2019-08-11 - Journal
+type: text/vnd.tiddlywiki
+
+06:33 - Saw [[Phil|Phil Nunnally]] needed an [[AppleScript for TW Links|https://youneedastereo.com/#TW%3A%20TODO]] and realized I already have one and use it: [[AS: Get Front Tab as TiddlyWiki Link]], HTH!
+
+06:45 - Back to using Brave for TiddlyWiki, Safari has such issues with it. Everytime I refresh the page I need to go back to /login-basic to re-authenticate. Maybe I shouldn't save the credentials in Safari and that would help, but I think that will only require me to enter the creds every refresh. 🤔
+
+08:05 - Debating whether to remove commenting from [[my blog|https://blog.joshsullivan.io]]. It's a hassle to manage, and although the creator said it should work as a subdomain, the links to posts are not working correctly, also threads in the admin panel are not working. I get on average 1 comment per week, with my [[Creating an Online TiddlyWiki on DigitalOcean|https://blog.joshsullivan.io/2019/02/20/creating-online-tiddlywiki]] usually having the most.

@@ -1,0 +1,11 @@
+created: 20190811104209198
+creator: jcsullivan2
+modified: 20190811104406215
+modifier: jcsullivan2
+tags: Change
+title: 2019-08-11 - TW: Updated to 5.1.20
+type: text/vnd.tiddlywiki
+
+Upgraded to 5.1.20, everything went well with no issues.
+
+It also gave me the change to add the runwiki.sh to my init.d so upon restart of my VPS, TiddlyWiki immediately starts. I also created a stopwiki.sh, because I kept forgetting the path, so this is much easier.
