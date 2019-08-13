@@ -1,6 +1,6 @@
 created: 20190812132427268
 creator: jcsullivan2
-modified: 20190812140038185
+modified: 20190812184521220
 modifier: jcsullivan2
 tags: TableOfContents
 title: On This Day
@@ -11,7 +11,7 @@ type: text/vnd.tiddlywiki
 <$set name="monthDay" value={{{ [<tiddler>get[created]split[]last[13]first[4]join[]] }}}>
 <$list filter="[<monthDay>match<todayMonthDay>]">
 
-* <$link to=<<tiddler>>><<tiddler>></$link>
+* <$link to=<<tiddler>> />
 
 
 </$list>

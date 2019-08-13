@@ -1,6 +1,6 @@
 created: 20190812102226545
 creator: jcsullivan2
-modified: 20190812151404635
+modified: 20190812213919204
 modifier: jcsullivan2
 tags: Journal
 title: 2019-08-12 - Journal
@@ -15,3 +15,5 @@ type: text/vnd.tiddlywiki
 10:02 - I really need the [[Due App|https://www.dueapp.com/]] for calendar events. I sometimes end up at meetings late because the small Outlook reminder isn't enough.
 
 11:13 - I recently purchased [[Nucleo App Icon Set|https://nucleoapp.com]] and an loving it. I've been using it in TheBrain, and just today started to use it in this wiki.
+
+17:34 - I'm not sure I understand [[hop3's|https://philosopher.life/#2019.03%20-%20Wiki%20Audit]] hatred of NodeJS. It runs fast and with minimal memory and CPU usage on my VPS.

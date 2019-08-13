@@ -1,6 +1,6 @@
 created: 20190217113915435
 creator: jcsullivan2
-modified: 20190221145803670
+modified: 20190812202314994
 modifier: jcsullivan2
 tags: TiddlyWiki
 title: TW: Resources
@@ -8,6 +8,8 @@ type: text/vnd.tiddlywiki
 
 !! Links
 
+* [[TW5 Tribal Knowledge|https://techlifeweb.com/tw5tribalknowledge.html]]
+* [[TW-Scripts|https://kookma.github.io/TW-Scripts/]]
 * [[TiddlyWiki toolmap - Dynalist|https://dynalist.io/d/zUP-nIWu2FFoXH-oM7L7d9DM]]
 * [[TiddlyWiki Cheat Sheet|https://jcs-wiki.s3.wasabisys.com/uploads/2019/TiddlyWiki-Cheat-Sheet.pdf]]
 * [[2019-02-21 - Link: TW Variables, Parameters and transclusions]]
