@@ -1,0 +1,11 @@
+created: 20190813231022109
+creator: jcsullivan2
+modified: 20190813231231297
+modifier: jcsullivan2
+tags: Software
+title: VeraCrypt
+type: text/vnd.tiddlywiki
+
+[[VeraCrypt|https://www.veracrypt.fr/en/Home.html]] is a free open source disk encryption software for Windows, Mac OSX and Linux.
+
+I'm going to be testing VeraCrypt for storing SSH keys on a USB key.
