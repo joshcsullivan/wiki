@@ -1,0 +1,13 @@
+created: 20190814102909934
+creator: jcsullivan2
+modified: 20190814141202278
+modifier: jcsullivan2
+tags: Journal
+title: 2019-08-14 - Journal
+type: text/vnd.tiddlywiki
+
+06:26 - Thinking of setting up a [[Discourse instance for comments|https://meta.discourse.org/t/using-discourse-as-a-comment-system/107663]] on my blog. Isso is hard to manage and annoying in regards to replying as the admin.
+
+06:57 - Also thinking of going back to [[Commento|https://commento.io/]] so I don’t have all these issues. 🤔
+
+10:10 - I put in an issue for threads and admin links for [[Isso Comments]], hoping I get answers on how to set it up for linked domains. I do like how Isso looks and that it is self-hosted.

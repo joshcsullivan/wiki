@@ -1,6 +1,6 @@
 created: 20190215223106483
 creator: jcsullivan2
-modified: 20190415121635059
+modified: 20190814143810577
 modifier: jcsullivan2
 tags: Person
 title: Jack Baty
@@ -16,4 +16,4 @@ Influential Contributor to my current workflows and setup. Instrumental in creat
 * [[On Using TheBrain|https://micro.blog/joshsullivan/1327021]]
 
 !! Letters
-<<list-links "[tag[Letter]]+[tag[Jack Baty]]">>
+<<list-links "[tag[Letter]!sort[created]]+[tag[Jack Baty]]">>

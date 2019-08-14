@@ -1,6 +1,6 @@
 created: 20190216115915858
 creator: jcsullivan2
-modified: 20190415121634991
+modified: 20190814143821135
 modifier: jcsullivan2
 tags: Person
 title: Phil Nunnally
@@ -14,4 +14,4 @@ Phil has many similar interests to myself.
 * Micro.blog: [[@twelvety|https://micro.blog/twelvety]]
 
 !! Letters:
-<<list-links "[tag[Letter]]+[tag[Phil Nunnally]]">>
+<<list-links "[tag[Letter]!sort[created]]+[tag[Phil Nunnally]]">>

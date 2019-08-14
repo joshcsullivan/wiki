@@ -1,0 +1,18 @@
+created: 20190814143045733
+creator: jcsullivan2
+modified: 20190814143550220
+modifier: jcsullivan2
+tags: Letter [[Phil Nunnally]]
+title: 2019-08-14 - To: Phil Re: AppleScript
+type: text/vnd.tiddlywiki
+
+To: [[Phil|Phil Nunnally]]
+
+Re: AppleScript
+
+I'm glad to help, I'd been using that snippet in Markdown form since Brett Terpstra wrote about it in 2013 I believe. I immediately created one for TiddlyWiki when I started using it.
+
+Another useful JS I've found was a bookmarklet called [[Paste to TiddlyWiki|https://techlifeweb.com/bookmarklet-for-grabbing-the-title-and-url-of-a-site/]] which allows you to click on the bookmarklet and it will grab the current webpage in TW Link form then show the URL with it highlighted, so a quick copy and paste works. I use that when I don't feel like opening something else to use the snippet.
+
+Regards,
+Josh
