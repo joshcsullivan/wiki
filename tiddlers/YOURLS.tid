@@ -1,6 +1,6 @@
 created: 20190308125459775
 creator: jcsullivan2
-modified: 20190415121436908
+modified: 20190814182929542
 modifier: jcsullivan2
 tags: Service
 title: YOURLS
@@ -16,10 +16,10 @@ Running your own URL shortener is fun, geeky and useful: you own your data and d
 
 I'm about to embark on implementing YOURLS so I don't rely on other services, and can use my own domain name.
 
-''Update'': Thanks to [[this tutorial|https://slnks.io/clwzo]] I now have YOURLS up and running.
+''Update'': Thanks to [[this tutorial|https://computingforgeeks.com/how-to-install-yourls-your-own-url-shortener-on-ubuntu-18-04-bionic-beaver-linux/]] I now have YOURLS up and running.
 
 Installed the following plugins:
 
-* [[Don't Track Admins|https://slnks.io/tsd9a]]
-* [[Don't Log Crawlers|https://slnks.io/s7pqj]]
-* [[Random Keywords|https://slnks.io/mejqn]]
+* [[Don't Track Admins|https://github.com/dgw/yourls-dont-track-admins]]
+* [[Don't Log Crawlers|https://github.com/luixxiul/dont-log-crawlers]]
+* [[Random Keywords|https://github.com/YOURLS/random-keywords]]

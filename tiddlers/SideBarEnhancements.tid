@@ -1,12 +1,12 @@
 created: 20190311124840737
 creator: jcsullivan2
-modified: 20190311125145635
+modified: 20190814182839486
 modifier: jcsullivan2
 tags: [[Sublime Text]]
 title: SideBarEnhancements
 type: text/vnd.tiddlywiki
 
-[[SideBarEnhancements|https://slnks.io/z7nud]]
+[[SideBarEnhancements|https://github.com/titoBouzout/SideBarEnhancements]]
 
 <<<
 Provides enhancements to the operations on Sidebar of Files and Folders for Sublime Text.
