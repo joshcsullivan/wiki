@@ -1,11 +1,11 @@
 caption: {{$:/language/SideBar/Recent/Caption}}
 created: 20190811111802100
 creator: jcsullivan2
-list-after: New
-modified: 20190811111803285
+list-before: Recent
+modified: 20190816210703671
 modifier: jcsullivan2
 tags: $:/tags/SideBar
 title: $:/core/ui/SideBar/Recent
 type: text/vnd.tiddlywiki
 
-<$macrocall $name="timeline" format={{$:/language/RecentChanges/DateFormat}}/>
+<$macrocall $name="timeline" format={{$:/language/RecentChanges/DateFormat}} limit="40"/>

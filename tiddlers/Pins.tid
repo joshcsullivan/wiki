@@ -1,13 +1,10 @@
 created: 20190811110140311
 creator: jcsullivan2
 list-before: New
-modified: 20190812140107864
+modified: 20190816210524993
 modifier: jcsullivan2
 tags: $:/tags/SideBar
 title: Pins
 type: text/vnd.tiddlywiki
 
-* [[DEVONthink]]
-* [[Daily Haunts]]
-* [[TheBrain]]
-* [[On This Day]]
+<<list-links "[tag[Pin]]">>

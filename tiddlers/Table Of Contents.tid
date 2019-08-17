@@ -2,7 +2,7 @@ caption: TOC
 created: 20190215202300235
 creator: jcsullivan2
 list-before: 
-modified: 20190415122016791
+modified: 20190816205710967
 modifier: jcsullivan2
 tags: $:/tags/SideBar
 title: Table Of Contents
@@ -15,3 +15,6 @@ type: text/vnd.tiddlywiki
 <<toc-selective-expandable "TableOfContents"  "sort{!!fuzzy}" >>
 
 </div>
+
+---
+{{$:/TOC/Recent}}
