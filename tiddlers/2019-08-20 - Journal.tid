@@ -1,6 +1,6 @@
 created: 20190820094507872
 creator: jcsullivan2
-modified: 20190820165954376
+modified: 20190820205853510
 modifier: jcsullivan2
 tags: Journal
 title: 2019-08-20 - Journal
@@ -11,5 +11,11 @@ type: text/vnd.tiddlywiki
 12:39 - I realized lately I prefer to post here on the Wiki in these journal posts instead of posting to my blog(s). Not sure why, but I feel like I wasn't contributing anything worth while, whereas here I am not cross posting this elsewhere and it feels more private. Only a few dedicated friends <<footnote "Maybe?">> see this wiki, so I don't feel as self-conscious about posting various thoughts throughout the day.
 
 12:58 - For some reason the G's and Y's bottoms were being cut off in the Title of these tiddlers, so I [[change a tiny bit of CSS|TW: Show Full Title CSS Change]] to correct that issue.
+
+14:37 - Adobe made another change to their website, so now the documentation we've been sending users doesn't work. Now we have to change the documentation and re-send it. I ''really'' hate Adobe.
+
+16:25 - Trying out [[ClipboardFusion|https://www.clipboardfusion.com]] for a clipboard manager on Windows. So far it's great, I do wish it allowed for 3rd party sync, sync via WebDAV, or Network drive. Right now I cannot sync the clipboard to their servers for security purposes. 
+
+16:58 - I'm thinking of making some changes to the blogs. The Blot blog will be for long form posts, Micro.blog hosted blog for Micro posts, and I think the Hugo blog, as much as I love it, will be frozen, no more updates. Also changing the CSS of Blot to white again and change the font. A project for the weekend.
 
 <<footnotes "Maybe?" "At least I consider them friends.">>
