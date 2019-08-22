@@ -1,6 +1,6 @@
 created: 20190410133354812
 creator: jcsullivan2
-modified: 20190410134120236
+modified: 20190822133223391
 modifier: jcsullivan2
 tags: $:/tags/Stylesheet
 title: 2019-04-10 - TW: Text Colors
@@ -10,14 +10,20 @@ code {
 color: red;
 }
 
+/*
 a.tc-tiddlylink-external:visited { 
-color: lightgreen;
+color: blue;
 }
 
 a.tc-tiddlylink-external {
-color: lightgreen;
-}
-
+color: blue;
+}*/
+/*
 .tc-sidebar-lists a.tc-tiddlylink {
 color: #00a9c7;
+}*/
+
+
+.tc-sidebar-lists a.tc-tiddlylink {
+color: #3366ff;
 }
