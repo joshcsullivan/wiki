@@ -1,6 +1,6 @@
 created: 20190822114755253
 creator: jcsullivan2
-modified: 20190822133500649
+modified: 20190822212616121
 modifier: jcsullivan2
 tags: Journal
 title: 2019-08-22 - Journal
@@ -11,3 +11,7 @@ type: text/vnd.tiddlywiki
 07:57 - Created date updated for yesterday's journal. I don't understand why you need to restart the wiki process for the change to reflect in the wiki. Maybe [[TW: Tiddler Commander]] can do it without having to restart the wiki process.
 
 09:34 - Switched to the lighter Palette for the wiki. Makes everything pop more.
+
+15:09 - I really like this lighter design.
+
+17:25 - Testing having no default tab in the sidebar. I’ll probably move to the TOC, but testing for now.

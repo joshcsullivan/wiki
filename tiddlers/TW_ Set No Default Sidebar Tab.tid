@@ -1,0 +1,13 @@
+created: 20190822212832055
+creator: jcsullivan2
+modified: 20190822212858848
+modifier: jcsullivan2
+tags: TiddlyWiki
+title: TW: Set No Default Sidebar Tab
+type: text/vnd.tiddlywiki
+
+Create a Empty tiddler and tag with `$:/tags/SideBar`.
+
+Go to Control Panel > Settings > Change Default Sidebar Tab to the new tiddler.
+
+Delete the tiddler, refresh and now it doesn't show a tab by default
