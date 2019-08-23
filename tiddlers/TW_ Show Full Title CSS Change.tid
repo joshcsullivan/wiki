@@ -1,11 +1,11 @@
 created: 20190820165734237
 creator: jcsullivan2
-modified: 20190820165803824
+modified: 20190823113902148
 modifier: jcsullivan2
 tags: $:/tags/Stylesheet
 title: TW: Show Full Title CSS Change
 type: text/vnd.tiddlywiki
 
-.tc-site-title, .tc-titlebar {
+/*.tc-site-title, .tc-titlebar {
 line-height: 1.4em
-}
+}*/

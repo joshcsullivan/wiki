@@ -1,6 +1,6 @@
 created: 20190217153137550
 creator: jcsullivan2
-modified: 20190217153748872
+modified: 20190823113355366
 modifier: jcsullivan2
 tags: AppleScript
 title: AS: Bulk Remove Tags DTPO
@@ -12,7 +12,7 @@ A useful script for removing the same tag from every record that is tagged with 
 The user selected one or more tags and invokes the script. Each selected tag is then removed from EVERY record to which it has been applied.
 <<<
 
-```
+```applescript
 (* 
 Remove these tags - Removes a selected set of tags from ALL records so tagged.  Should leave other tags alone.
 
