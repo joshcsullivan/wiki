@@ -1,0 +1,23 @@
+created: 20190824131617910
+creator: jcsullivan2
+modified: 20190824132203047
+modifier: jcsullivan2
+tags: Alfred
+title: 2019-08-24 - Link: Todoist Alfred Workflow
+type: text/vnd.tiddlywiki
+
+[[Todoist Alfred Workflow|http://www.packal.org/workflow/alfred-workflow-todoist]]
+
+Syntax:
+
+Starts with `todo` 
+
+Task - Any beginning text before a `,`
+
+Project - `#project`
+
+Label - `@label`
+
+Date - Text after a `,`
+
+Example: `todo Add Link to Wiki #wiki @online, today 10am`

@@ -1,6 +1,6 @@
 created: 20190820094614042
 creator: jcsullivan2
-modified: 20190820094957487
+modified: 20190824132510069
 modifier: jcsullivan2
 title: Brainio
 type: text/vnd.tiddlywiki
@@ -14,6 +14,7 @@ Features:
 * Mind Maps
 
 Drawbacks:
+
 * Electron App
 
 I requested early access on 17 August 2019 after learning about it on [[Outliner Software|https://www.outlinersoftware.com/topics/viewt/8750/0/brainio]].
