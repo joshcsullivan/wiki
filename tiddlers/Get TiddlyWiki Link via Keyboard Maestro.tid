@@ -1,0 +1,11 @@
+created: 20190825122203116
+creator: jcsullivan2
+modified: 20190825122616292
+modifier: jcsullivan2
+tags: [[Keyboard Maestro]]
+title: Get TiddlyWiki Link via Keyboard Maestro
+type: text/vnd.tiddlywiki
+
+I'm using ⇧⌥⌘W to get the front browser tab in Safari as a TiddlyWiki link on the clipboard.
+
+[img width=600 [/files/20190825-081127.png]]

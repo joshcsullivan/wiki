@@ -1,0 +1,19 @@
+created: 20190825122634562
+creator: jcsullivan2
+modified: 20190825123514198
+modifier: jcsullivan2
+tags: [[Working with TiddlyWiki]]
+title: TW: Images
+type: text/vnd.tiddlywiki
+
+Information on adding images to Tiddlers:
+
+`[img[/path/to/file.png]]`
+
+To specify the width:
+
+`[img width=600[https://example.com/file.png]]`
+
+Resources:
+
+* [[Images: TiddlyWiki|https://tiddlywiki.com/static/Images%2520in%2520WikiText.html]]

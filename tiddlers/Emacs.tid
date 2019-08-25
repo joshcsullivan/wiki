@@ -1,6 +1,6 @@
 created: 20190227162234331
 creator: jcsullivan2
-modified: 20190227162539147
+modified: 20190825120633443
 modifier: jcsullivan2
 tags: Software
 title: Emacs
@@ -16,3 +16,8 @@ At its core is an interpreter for Emacs Lisp, a dialect of the Lisp programming 
 References:
 
 * [[Emacs Quick Reference|http://www.cs.cornell.edu/courses/cs312/2007sp/software/quick-emacs.html]]
+* [[Org mode beginning at the basics|https://orgmode.org/worg/org-tutorials/org4beginners.html]]
+* [[Installing Emacs on Windows 95/98/2K/NT/ME/XP/Vista/Windows 7|https://web.archive.org/web/20180620021908/http://www1.cmc.edu:80/pages/faculty/alee/emacs/emacs.html]]
+* [[EmacsWiki: Ms Windows Installation|https://www.emacswiki.org/emacs/MsWindowsInstallation]]
+* [[Getting Started With Org Mode - YouTube|https://www.youtube.com/watch?v=SzA2YODtgK4]]
+* [[GNU Emacs download - GNU Project|https://www.gnu.org/software/emacs/download.html]]
