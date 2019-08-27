@@ -1,9 +1,13 @@
 created: 20190826134924613
 creator: jcsullivan2
-modified: 20190826134957593
+modified: 20190826193923155
 modifier: jcsullivan2
 tags: Journal
 title: 2019-08-26 - Journal
 type: text/vnd.tiddlywiki
 
 09:49 - Taking a look at using local TiddlyWiki files for work/project notes.
+
+14:03 - Installed NodeJS and TiddlyWiki on my Windows desktop at work. I like it, now I need to install Forever and make sure it runs correctly.
+
+15:38 - Migrating years of notes from Markdown to TW markup takes a lot of time, I know about the Markdown plugin, but I want to use TW markup.
