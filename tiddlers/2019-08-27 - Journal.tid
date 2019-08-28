@@ -1,6 +1,6 @@
 created: 20190827120647895
 creator: jcsullivan2
-modified: 20190827145358603
+modified: 20190827225426224
 modifier: jcsullivan2
 tags: Journal
 title: 2019-08-27 - Journal
@@ -9,3 +9,5 @@ type: text/vnd.tiddlywiki
 08:07 - Today I’ll be testing TiddlyWiki Desktop to see if I like it more than the current solution I have, which is to run NodeJS and TiddlyWiki on different ports for my different wikis. With TIddlyWiki Desktop, I’m hoping to use the single files with easy access on other computers.
 
 10:45 - I'm really liking TiddlyWiki Desktop.
+
+18:53 - One of my favorite things about single file TiddlyWiki's and save them in Dropbox is that I can access them through the Dropbox app on iOS, or open the file in the web browser on a device that doesn't have TiddlyWiki!
