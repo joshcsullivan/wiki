@@ -1,6 +1,6 @@
 created: 20190829125748589
 creator: jcsullivan2
-modified: 20190829160252915
+modified: 20190829201923758
 modifier: jcsullivan2
 tags: Journal
 title: 2019-08-29 - Journal
@@ -9,3 +9,5 @@ type: text/vnd.tiddlywiki
 08:57 - I've started using markdown in [[TheBrain]] notes field in preparation for v11.
 
 12:00 - I'm hoping the [[Exponent|https://exponent.fm/]] podcast comes back soon. I really like it for a news update. I need to find more small news podcasts.
+
+16:15 - [[TheBrain]] has become my digital Inbox. I use it to collect links, and documents via links to the documents in Dropbox or my Network share at work. So far this is one of the best places for it, because I can write notes about the link or document in TheBrain and it’s all on one place. Previously I had to create a separate markdown file with notes and link to the document or bookmark in DEVONthink. This is much easier and seamless.
