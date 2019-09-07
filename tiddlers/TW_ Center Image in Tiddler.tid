@@ -1,0 +1,11 @@
+created: 20190906233059717
+creator: jcsullivan2
+modified: 20190906233213030
+modifier: jcsullivan2
+tags: [[Working with TiddlyWiki]]
+title: TW: Center Image in Tiddler
+type: text/vnd.tiddlywiki
+
+To center an image in a Tiddler, one option is to wrap it like so: 
+
+`<center>[img[path/to/image.png]]</center>`

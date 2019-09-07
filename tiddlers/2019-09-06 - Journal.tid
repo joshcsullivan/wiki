@@ -1,6 +1,6 @@
 created: 20190906093434992
 creator: jcsullivan2
-modified: 20190906102152202
+modified: 20190906233046585
 modifier: jcsullivan2
 tags: Journal
 title: 2019-09-06 - Journal
@@ -11,3 +11,7 @@ type: text/vnd.tiddlywiki
 05:46 - Documentation for our Office 365 migrations will be the death of me. I'm swimming in screenshots from iOS, macOS, Windows 7, Windows 10, Android (3 different flavors, can't tell you which someone else got the screenshots for me), and Chrome OS. Compiling them all is death by a thousand screenshots.
 
 06:21 - [[InfoQube]] continues to impress me with its ability to handle everything I throw at it.
+
+17:31 - Made a big change to my home screen today, moved DEVONthink off the Dock and replaced it with TheBrain. First time DEVONthink hasn't been on the Dock since v2 was released 3 years ago:
+
+<center>[img width=250 [/files/20190906-Home_Screen_Change.jpeg]]</center>
