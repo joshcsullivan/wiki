@@ -1,6 +1,6 @@
 created: 20190916115133179
 creator: jcsullivan2
-modified: 20190916115335969
+modified: 20190916181636580
 modifier: jcsullivan2
 tags: Journal
 title: 2019-09-16 - Journal
@@ -9,3 +9,5 @@ type: text/vnd.tiddlywiki
 07:50 - Bug in [[InfoQube]] was fixed in this mornings build, New iPhone Friday, and TheBrain 11 alpha coming out soon, this week is looking promising.
 
 07:52 - The Ultimate Hacking Keyboard is one of my favorite keyboards ever, I’m loving every moment with it. I’ll be purchasing the extra button set shortly. 
+
+14:11 - Spent 3 hours this morning fighting with ServiceNow and Azure to allow for provisioning through ServiceNow directly in Azure. Finally got it to the point where we can see the API requests, but it still isn't provisioning. Have another call tomorrow night to finish the setup.
