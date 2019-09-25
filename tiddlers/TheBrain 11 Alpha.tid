@@ -1,6 +1,6 @@
 created: 20190921122342156
 creator: jcsullivan2
-modified: 20190922120437114
+modified: 20190925125647441
 modifier: jcsullivan2
 tags: Pin
 title: TheBrain 11 Alpha
@@ -12,6 +12,7 @@ TheBrain 11 Alpha was [[released|https://forums.thebrain.com/post/thebrain-11-al
 
 * If majority of the Notes Editor actions are hidden in the More Notes Editor Actions button, then the button throws an Unexpected Error. If it hold less than half of the actions, then the button works correctly.
 ** Reported as #70284
+** Fixed
 * Selecting all text, then changing the font adds an extra character to the end of each line.
 ** Reported as #70297
 
