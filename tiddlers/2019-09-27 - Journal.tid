@@ -1,0 +1,11 @@
+created: 20190927180227599
+creator: jcsullivan2
+modified: 20190928000704228
+modifier: jcsullivan2
+tags: Journal
+title: 2019-09-27 - Journal
+type: text/vnd.tiddlywiki
+
+14:02 - I'm having an issue with [[InfoQube]] not adding text to the clipboard, through keyboard shortcut or right click menu when copying from a Markdown document in Preview mode. It's pushing me to think about a new software for notes for work. They are sensitive in nature, so it can't leave the network at work, so I'm debating between FileMaker, which I use for another shared note repository, or finding a new solution.
+
+19:56 - So... I ended up creating a local Brain that doesn't sync and started copying over my notes. So far with [[TheBrain 11 Alpha]] it's been great. Hope to finish copying over the rest of my notes on Monday.
