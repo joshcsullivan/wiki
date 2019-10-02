@@ -1,0 +1,11 @@
+created: 20191002000059858
+creator: jcsullivan2
+modified: 20191002000525608
+modifier: jcsullivan2
+tags: Journal
+title: 2019-10-01 - Journal
+type: text/vnd.tiddlywiki
+
+20:01 - Today wasn't great. I enabled something I should have tested more and due to it, any email sent or received for a group of about 300 users with the the letters `ec` in the subject was encrypted. After I realized what happened I disabled it, but thanks to Microsoft, it took about 45 minutes for a majority of users to stop seeing the encrypted emails. I could say I was on a deadline, which is true, but in reality if we say it isn't ready or we need more testing, we are allow to extend the deadline as long as it is reasonable.
+
+20:04 - In other news, I'm waiting on a fix to the Standard Notes iOS app, which currently isn't allowing sign ins.
