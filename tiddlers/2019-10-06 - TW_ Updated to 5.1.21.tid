@@ -1,0 +1,11 @@
+created: 20191006132953339
+creator: jcsullivan2
+modified: 20191006133254657
+modifier: jcsullivan2
+tags: Change
+title: 2019-10-06 - TW: Updated to 5.1.21
+type: text/vnd.tiddlywiki
+
+I updated this TiddlyWiki to 5.1.21. `sudo npm update -g tiddlywiki` wasn't working, so I had to use `sudo npm install -g tiddlywiki@5.1.21` to get the latest version.
+
+I think it was due to the changes to default Tiddlers I made. No matter, it's updated now.
