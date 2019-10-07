@@ -1,0 +1,15 @@
+created: 20191007120837641
+creator: jcsullivan2
+modified: 20191007155702483
+modifier: jcsullivan2
+tags: Journal
+title: 2019-10-07 - Journal
+type: text/vnd.tiddlywiki
+
+* I'm pretty sure I claimed I was back to active blogging at some point in August or early September, but that wasn't true. I should have know that wouldn't happen, I work at a University, September and early October is the busiest time. Not to mention I started a new position then as well, and we started a large project undertaking which won't wrap up until mid-November. So, now that my head is above water I'm starting to post to Micro.blog again, through the hosted account. Maybe soon I'll write a blog post about my usage of [[TheBrain]] since it's changed so much since [[TheBrain 11 Alpha]] came out. 
+
+* I also switched to bullet points today in the journal, we'll see if it lasts, I'm not sure it will but I currently like it better than the time, because with the time stamp it felt weird to have two updates with minutes or a minute of each other. With the bullet you can't tell when I wrote it and therefore I fee less constricted to stay with the same topic.
+
+* My AirPods keep blipping/fraction of a second loss of audio, but annoying. I think it's dropping packets via Bluetooth, I need to try re-pairing them. If that doesn't work, I can hope Apple announces new AirPods soon otherwise it's a trip to the Apple Store. It doesn't happen immediately while listening to music, it only happens after about 15-20 minutes. Not a network issue, I download my entire library to my phone so definitely a hardware or Bluetooth issue. 
+
+* Finally had the time to combine 6 different scripts into one with multiple If Else statements. Much more efficient querying now, and cut down the prep time to one simple command.
