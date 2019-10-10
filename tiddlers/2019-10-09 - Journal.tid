@@ -1,0 +1,9 @@
+created: 20191009194741448
+creator: jcsullivan2
+modified: 20191009194842059
+modifier: jcsullivan2
+tags: Journal
+title: 2019-10-09 - Journal
+type: text/vnd.tiddlywiki
+
+* Installed Caddy on my test server, I like it better than the NGinx file navigation. I'm having some issues getting it to run as a service, so I'll probably try to take some time this week to figure that out.
