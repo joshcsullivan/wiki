@@ -1,9 +1,16 @@
 created: 20191010101216701
 creator: jcsullivan2
-modified: 20191010101509846
+modified: 20191010235717334
 modifier: jcsullivan2
 tags: Journal
 title: 2019-10-10 - Journal
 type: text/vnd.tiddlywiki
 
 * I keep seeing posts like Tyler Hall's [[Broken|https://tyler.io/broken/]]. I think I'll hold off upgrading to Catalina for the while, not just because of that, but also some applications I use aren't working, for example, Hazel.
+
+* Today a nor'easter rolled into the Boston area and will be here through Saturday. The boat was a fun to ride today, I grew up on the water and never had an issue, but it was interesting to see people's reaction to the rolling waves, definitely a few that were not used to it.
+
+* [[TheBrain 11 Alpha]] version 11.0.23 has a nasty bug where if you drag and drop a URL or even manually add a URL via linking it adds the title to the end of the URL and therefore the URL is broken.
+
+* Really hoping Apple comes out with the new AirPods soon, hopefully water resistant or proof would be nice. Mine are the second gen, but I'm having some issues with them having audio cut outs (Bluetooth packet drops?). I have to disconnect then reconnect them and they work again. Doesn't happen every time and when it does it's about 10-15 minutes into listening to audio. I've tried re-pairing them, but that didn't help.
+** After I wrote this, I thought to myself, this seems familiar, lo and behold: [[2019-10-07 - Journal]] I talk about this very thing, sorry for the repetition.
