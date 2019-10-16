@@ -1,0 +1,9 @@
+created: 20191016000220899
+creator: jcsullivan2
+modified: 20191016001233502
+modifier: jcsullivan2
+tags: Journal
+title: 2019-10-15 - Journal
+type: text/vnd.tiddlywiki
+
+* I've slowly removed [[DEVONthink]] from my rotation. Notes are now stored in TheBrain and Standard Notes, documents are stored in folder directories in Dropbox or on my Synology. I've found using DEVONthink when I'm on a Windows computer with no or limited access isn't helping me. And with the new job, I'm on Windows 75% of the time. Also instead of purchasing a Dell XPS 13, my job is ordering me a Lenovo P73, a mobile workstation, so TheBrain which is now my daily driver, will fly on that machine. I wish DEVONthink was Windows as well, I would keep it as my document/archival repo, but every so often I need access to those documents and I keep having to remote into my Mac at home, and recently I've been turning it off at night and forgetting to turn it back on in the morning, so I can't access the documents. I've then been moving those in a folder structure on Dropbox, and I can access it easily and searchable. Tax and financial docs go on my Synology in an encrypted shared folder, so I can VPN into my home network then access those folder. I'll be watching DEVONthink's development, but for now it's moving out of my daily rotation and under the `Software, Retired` thought in my brain.
