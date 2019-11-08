@@ -1,6 +1,6 @@
 created: 20190921122342156
 creator: jcsullivan2
-modified: 20190925125647441
+modified: 20191108125929395
 modifier: jcsullivan2
 tags: Pin
 title: TheBrain 11 Alpha
@@ -20,3 +20,4 @@ TheBrain 11 Alpha was [[released|https://forums.thebrain.com/post/thebrain-11-al
 
 * Extend Notes Area to Fill the Entire Notes Panel
 ** Reported as #70298
+** Somewhat fixed with the ability to change the background color of the notes panel.
