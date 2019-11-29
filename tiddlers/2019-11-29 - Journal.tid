@@ -1,0 +1,17 @@
+created: 20191129134159339
+creator: jcsullivan2
+modified: 20191129135431120
+modifier: jcsullivan2
+tags: Journal
+title: 2019-11-29 - Journal
+type: text/vnd.tiddlywiki
+
+* I've switched back to using Standard Notes for work notes as of 21 Nov 2019. [[TheBrain 11 Alpha]] is great for notes, but I like it more for connection of notes and most of my work notes are simple one line PowerShell commands. It was getting difficult to set organization of that brain since there could be 60+ thoughts under one parent, and when browsing on mobile that was becoming ridiculous.
+
+
+
+* In other news, not sure what is going on with Blot right now. I've been thinking of maybe moving my posts over to my other blog, joshsullivan.io. I understand the recent downtime isn't David's fault, looks like a DDOS attack, but I've had a few emails from people asking about why its down when they were in the middle of creating a TiddlyWiki with my tutorial, thankfully I had already recreated that post over on the Hugo blog. We'll see, for now at least the posts I get the most feedback on, are also over on the Hugo blog, so people have an alternative.
+
+
+
+* Also, as alluded to in [[2019-11-08 - Journal]], the project I am working on hit a big snag due to a person leaving, which dragged out the timeline since one of the people on our project had to cover the other person workload. By the end of next week all active data will have been migrated, then we can finally start decommissioning servers and be done. Hopefully have more of an online presence again, since I'll have more energy for this stuff.

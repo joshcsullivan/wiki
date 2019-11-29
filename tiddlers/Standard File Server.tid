@@ -1,0 +1,37 @@
+created: 20191129133926568
+creator: jcsullivan2
+modified: 20191129134151624
+modifier: jcsullivan2
+tags: 
+title: Standard File Server
+type: text/vnd.tiddlywiki
+
+I set up a Standard File server on an Amazon EC2 instance. Ran into a couple issues, but overall it went well. 
+
+Some notes from the setup:
+
+Using: [[Self Hosting with EC2 and Nginx|https://docs.standardnotes.org/self-hosting/self-hosting-with-ec2-and-nginx]]:
+
+Install RVM is out of date:
+`gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703113804 
+BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB`
+
+`\curl -sSL https://get.rvm.io | bash -s stable`
+
+Everywhere `--no-ri --no-doc` is used, replace both with one `--no-document`
+
+After running Bundle Install, add the following two lines to `/ruby_server/config/deploy.rb`:
+
+	set :passenger_restart_with_touch, false # Note that `nil` is NOT the same as `false` here
+	set :passenger_in_gemfile, true
+	
+`rails assets:precompile` came back with Yarn executable was not detected in the system.
+1. `sudo yum install -y gcc-c++ make`
+2. `curl -sL https://rpm.nodesource.com/setup_13.x | sudo -E bash -`
+3. `sudo yum install -y nodejs`
+4. `curl -o- -L https://yarnpkg.com/install.sh | bash`
+5. Exit SSH Session
+6. Reconnect
+7. `cd ruby-server/`
+8. `rails assets:precompile`
+9. Follow the rest of the instructions and it should work correctly.
