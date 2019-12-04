@@ -1,0 +1,19 @@
+created: 20191204165529160
+creator: jcsullivan2
+draft.of: New Tiddler
+draft.title: elementary OS
+modified: 20191204165957919
+modifier: jcsullivan2
+tags: 
+title: Draft of 'New Tiddler' by jcsullivan2
+type: text/vnd.tiddlywiki
+
+[[elementary OS|https://elementary.io/]]
+
+<<<
+The fast, open, and privacy-respecting replacement for Windows and macOS
+<<<
+
+Installed elementary OS in a VMware VM, and so far it's been great. It feels very much like macOS and I appreciate that about it. 
+
+I've installed [[AppImageLauncher|https://github.com/TheAssassin/AppImageLauncher]]
