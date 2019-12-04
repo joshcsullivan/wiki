@@ -1,0 +1,11 @@
+created: 20191203173018822
+creator: jcsullivan2
+modified: 20191203173220502
+modifier: jcsullivan2
+tags: Software
+title: NextCloud
+type: text/vnd.tiddlywiki
+
+About 2 weeks ago I installed NextCloud on a DigitalOcean droplet, since then I've slowly started moving everything from my Dropbox account to NextCloud. So far it's been rock solid, uploads data faster than Dropbox ever did, and download speeds are incredible, much faster than Dropbox.
+
+I am running it using the Snap version, and am backing it up with these instructions: [[How To Backup Nextcloud - Kev Quirk|https://kevq.uk/how-to-backup-nextcloud/]]
