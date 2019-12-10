@@ -1,0 +1,13 @@
+created: 20191210141257980
+creator: jcsullivan2
+modified: 20191210163130787
+modifier: jcsullivan2
+tags: Journal
+title: 2019-12-10 - Journal
+type: text/vnd.tiddlywiki
+
+* I must hate myself, because I spent the last 45 minutes moving notes from SN to Trilium. Thankfully, Trilium has an easy Markdown import. [[PowerToys|https://github.com/microsoft/PowerToys]] came in handy when renaming files from `.txt` to `.md`. The migration took far less time than trying to get everything into Standard Notes, but now I am entering notes in both places, in case I abandon Trilium.
+
+* I also installed [[Wiki.js|https://wiki.js.org/]] with the [[DigitalOcean Marketplace Version|https://docs.requarks.io/install/digitalocean]]. It was the easiest one I've ever done, I haven't even SSH'd into the server, they set up everything and with DO using key profiles, PWs are disabled already. It's not the most intuitive wiki software I've used, but it is one of the best ones to use on mobile.
+
+* [[Jack|Jack Baty]] posting about [[Roam Research|https://rudimentarylathe.org/#Roam]] makes me want to try it, but I fear for the data I would put in there. I haven't found any information on future pricing either, or a place where they list feature requests or a road map.
