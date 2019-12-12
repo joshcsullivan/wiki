@@ -1,0 +1,15 @@
+created: 20191212133755383
+creator: jcsullivan2
+modified: 20191212134820492
+modifier: jcsullivan2
+tags: Service
+title: NextDNS
+type: text/vnd.tiddlywiki
+
+After [[Jack Baty]] mentioned [[NextDNS|https://nextdns.io/]] I immediately signed up. So far, it's been amazing, it works better than other DNS type blockers for me while on cellular. 
+
+You need to either specify the DNS servers per network, or you can add an app and install a VPN profile, I went with the profile because my work restricts DNS to their servers, so if I set custom DNS it wouldn't have allowed me to connect.
+
+Here are some stats from that last 18 hours:
+
+[img width=750 [2019-12-12_NextDNS_Queries.png]]
