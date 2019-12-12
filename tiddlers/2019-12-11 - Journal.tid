@@ -1,0 +1,19 @@
+created: 20191211185803293
+creator: jcsullivan2
+modified: 20191211195754268
+modifier: jcsullivan2
+tags: Journal
+title: 2019-12-11 - Journal
+type: text/vnd.tiddlywiki
+
+One of my biggest concerns with [[Standard Notes]] is it's scalability. I've repeatedly heard that when you starting getting a lot of notes >800, it starts to slow down drastically on launch, and scrolling down the notes list. [[Trilium]] is built off of SQL and houses the notes in a `.db` file, the developer has massive scalability in mind, upwards of 50,000 notes. I'm at around 400 in Standard Notes now and completed the migration of notes into Trilium, search is faster, loading is faster, everything is much fast in Trilium. That said, I am going to be keeping confidential information and extremely private notes in Standard Notes, and everything else in Trilium.
+
+
+[[Jack's thoughts on how to use TiddlyWiki really clicked with me:|https://rudimentarylathe.org/#Sunday%2C%20December%208%2C%202019]]
+
+<<<
+I think the trick with TiddlyWiki is to just create new tiddlers all the time rather than finding an existing one to edit. Not in all cases, but many. Just add relevant links and/or tags and then collect them later as needed.
+<<<
+
+
+[[Also from Jack NextDNS|https://rudimentarylathe.org/#NextDNS]] looks very interesting. I currently have Pi-Hole running, but I might check this out to see if it would be worth it to run on mobile devices.

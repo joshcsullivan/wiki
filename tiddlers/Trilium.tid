@@ -1,6 +1,6 @@
 created: 20190808130217977
 creator: jcsullivan2
-modified: 20191207140532521
+modified: 20191211190547919
 modifier: jcsullivan2
 tags: Software
 title: Trilium
@@ -11,3 +11,7 @@ type: text/vnd.tiddlywiki
 I've set up a Docker container on my Docker VPS and am testing it out. So far I like it, although I would prefer markdown links, hyper links still work.
 
 Update: 7 December 2019 09:03 - I ended up removing Trilium a long time ago. Today I set it back up, this time I kept running into an issue with the Docker version and the privkey.pem from Let's Encrypt. I switched to the [[Packaged Server Install|https://github.com/zadam/trilium/wiki/Packaged-server-installation]] and it immediately worked with the same key. Not sure what I am going to do with it, but it's there if I find a use.
+
+Updates:
+
+* [[Trilium Update - 11Dec19]]
