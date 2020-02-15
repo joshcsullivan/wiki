@@ -1,15 +1,13 @@
 created: 20190812132427268
 creator: jcsullivan2
-modified: 20190816211922782
+modified: 20200215153043480
 modifier: jcsullivan2
-tags: Pin
+tags: TableOfContents Pin
 title: On This Day
 type: text/vnd.tiddlywiki
 
-Coming 15 February 2020!
-
 <$set name="todayMonthDay" value=<<now 0MM0DD>>>
-<$list filter="[!is[system]]+[!field:created/^2019/]" variable="tiddler">
+<$list filter="[!is[system]]+[!field:created/^2020/]" variable="tiddler">
 <$set name="monthDay" value={{{ [<tiddler>get[created]split[]last[13]first[4]join[]] }}}>
 <$list filter="[<monthDay>match<todayMonthDay>]">
 
