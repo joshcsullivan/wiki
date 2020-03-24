@@ -1,6 +1,6 @@
 created: 20191212133755383
 creator: jcsullivan2
-modified: 20191212134820492
+modified: 20200323182926070
 modifier: jcsullivan2
 tags: Service
 title: NextDNS
@@ -12,4 +12,4 @@ You need to either specify the DNS servers per network, or you can add an app an
 
 Here are some stats from that last 18 hours:
 
-[img width=750 [2019-12-12_NextDNS_Queries.png]]
+[img width=750 [$:/images/2019-12-12_NextDNS_Queries.png]]

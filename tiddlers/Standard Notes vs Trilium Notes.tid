@@ -1,0 +1,40 @@
+created: 20200323182951564
+creator: jcsullivan2
+modified: 20200323194812696
+modifier: jcsullivan2
+tags: 
+title: Standard Notes vs Trilium Notes
+type: text/vnd.tiddlywiki
+
+I've been saving to both [[Trilium]] and [[Standard Notes]] for the past couple months. I really enjoy that Trilium allows for linking to other notes, but I keep going back to Standard Notes as my default note taking app because it has a mobile app.
+
+I didn't realize how much I use the mobile app until I started using Trilium for all of my notes. To quickly grab a piece of information from Trilium on my phone was like pulling teeth. Using Standard Notes, it's simple, fast, and up until v3.3, the mobile version was the only one with extra match search.
+
+Pros and Cons Per App:
+
+!! ''Standard Notes''
+!!! ''Pros''
+* Encrypted notes by default (E2EE)
+* Mobile App
+* Multiple editors including spreadsheets
+** Plain text by system default, but user selected default as well
+* Two-Factor Authentication
+* Daily Encrypted Automated Backups
+* FileSafe
+** Encrypted file attachments
+* Automatic or manual updating
+
+!!! ''Cons''
+* No easy way to link between notes
+* No Images in Notes other than Bold Editor
+* No code highlighting except in Code Editor, but highlighting isn't great
+* No or limited keyboard shortcuts
+
+!! ''Trilium''
+!!! ''Pros''
+* Different Types of Notes
+** Code Notes for highlighting
+
+!!! ''Cons''
+* No Mobile App or Good Interface
+* Updating Server and applications is manual
