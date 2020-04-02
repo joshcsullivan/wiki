@@ -1,0 +1,9 @@
+created: 20200401170759790
+creator: jcsullivan2
+modified: 20200401171613779
+modifier: jcsullivan2
+tags: [[2019 Journals]]
+title: 2019-11 - Journals
+type: text/vnd.tiddlywiki
+
+<<list-links "[field:created/^201911/]+[tag[Journal]!sort[created]]-[title[2019 - Journals]]">>

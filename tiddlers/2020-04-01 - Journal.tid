@@ -1,6 +1,6 @@
 created: 20200401164920790
 creator: jcsullivan2
-modified: 20200401165157434
+modified: 20200401174436264
 modifier: jcsullivan2
 tags: Journal
 title: 2020-04-01 - Journal
@@ -9,3 +9,7 @@ type: text/vnd.tiddlywiki
 Bringing back the public journal, I've been using [[Standard Notes]] for this but not sharing them.
 
 I keep having issues with [[NextDNS]] performance. Mainly an issue on cellular network, but it drastically reduces network speed.
+
+My usage of [[TheBrain]] has been dwindling week to week for a while now, I'm not sure why but I'm getting frustrated with the parent/child relationships. When I was previously thinking of moving data into TheBrain, I couldn't come up with a structure to accommodate the 500+ note files I needed to import. It would need to be broken into chunks of 10 child thoughts per parent thought so that viewing thoughts wouldn't be too difficult.
+
+I am rather upset about the fact Dark Sky was bought by Apple and they plan to discontinue the web app and API. I use Carrot Weather and at the end of 2021, they will no longer be able to use the Dark Sky API. I really hope Apple either releases a new API based on top of the current one, or reverses this decision.

@@ -1,6 +1,6 @@
 created: 20190215203639153
 creator: jcsullivan2
-modified: 20200329145057108
+modified: 20200401173157661
 modifier: jcsullivan2
 title: $:/DefaultTiddlers
 type: text/vnd.tiddlywiki
@@ -9,6 +9,6 @@ type: text/vnd.tiddlywiki
 
 [[On This Day]]
 
-[!is[system]!tag[Journal]!tag[Change]!sort[created]limit[5]]
+[!is[system]!tag[Change]!tag[Journals]!tag[2019 Journals]!sort[created]limit[5]]
 
 [[Changelog]]
