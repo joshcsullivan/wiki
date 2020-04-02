@@ -1,0 +1,15 @@
+created: 20200402123104383
+creator: jcsullivan2
+modified: 20200402134426955
+modifier: jcsullivan2
+tags: Journal
+title: 2020-04-02 - Journal
+type: text/vnd.tiddlywiki
+
+Sometimes trying to pin down an issue in ESXi is like stubbing your toe repeatedly until you finally move an inch over and move through the doorway. 
+
+I've been looking at [[Wall by David and Amit|https://www.amitgawande.com/1585574384457]] and funnily enough, last week I had switched from Dropbox to Git as my back end for Blot. It was once again the only service that used Dropbox, everything else has been moved to [[NextCloud]]. I like Wall, but it won't be enough to switch back to Dropbox.
+
+[[TheBrain]] is still my link collection/read later place, but I'd like to move this into [[Standard Notes]] the only issue is that there is no easy link capture on iOS via the Share Sheet. On a desktop, you can use the excellent [[Standard Notes Web Clipper|https://github.com/johnjones4/Standard-Notes-Clipper]], which I use many times a day.
+
+[[Jack|Jack Baty]] commented on the [[single post per day|https://rudimentarylathe.org/#Tuesday%2C%20March%2031%2C%202020]] blog format is similar to these journal tiddlers and I completely agree. It does make me want to have a blog system that does use that format, and I'm sure that [[Blot]] can do so, I would just need to invest time I don't have right now to do so.

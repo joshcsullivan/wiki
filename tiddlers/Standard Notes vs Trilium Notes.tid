@@ -1,6 +1,6 @@
 created: 20200323182951564
 creator: jcsullivan2
-modified: 20200401174746765
+modified: 20200402124042285
 modifier: jcsullivan2
 tags: 
 title: Standard Notes vs Trilium Notes
@@ -38,3 +38,4 @@ Pros and Cons Per App:
 !!! ''Cons''
 * No Mobile App or Good Mobile Web Interface
 * Updating Server and applications is manual
+* Uses a semi Rich Text input interface, unless you create the note as a Markdown note. But if you use a different type of note, it loses a lot of it's abilities.
