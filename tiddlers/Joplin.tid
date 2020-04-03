@@ -1,0 +1,28 @@
+created: 20200403130819014
+creator: jcsullivan2
+modified: 20200403132726007
+modifier: jcsullivan2
+tags: Software
+title: Joplin
+type: text/vnd.tiddlywiki
+
+<<<
+An open source note taking and to-do application with synchronisation capabilities
+<<<
+
+I've tried Joplin a few times and keep leaving it. It's a great note taking application with multiple syncing options. I do like Joplin but I need the cons to be sorted out first.
+
+Here is what I like and dislike:
+
+!! Pros:
+* Native Markdown and preview support
+* Sync Encryption
+** Not by default, but can be set up easily
+* Code Block Syntax Highlighting
+
+!! Cons:
+* Tags appear to be an after thought implementation
+* Search Doesn't Include Wildcard support at the beginning of a word
+** Ex. `*bear` wouldn't find unbearable
+* ''There is no way to lock or protect Joplin on a desktop install''
+** This wouldn't be so much of an issue if I split personal from work notes, but some of my work notes turn into personal notes or vice versa so it is easier to keep it in one repository. I don't want a coworker to be able to sign into my profile and see all of my notes.
