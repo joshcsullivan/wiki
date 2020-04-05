@@ -1,0 +1,9 @@
+created: 20200405134742172
+creator: jcsullivan2
+modified: 20200405134857763
+modifier: jcsullivan2
+tags: Journal
+title: 2020-04-05 - Journal
+type: text/vnd.tiddlywiki
+
+Moved my [[Trilium]] instance to the same VPS that this wiki is on. Had to change the port that this Wiki is served on because Trilium can only run on 8080, luckily TiddlyWiki can run on any specified port by adding `--listen port=XXXX`.
