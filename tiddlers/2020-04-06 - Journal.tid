@@ -1,0 +1,15 @@
+created: 20200406105554847
+creator: jcsullivan2
+modified: 20200406125939727
+modifier: jcsullivan2
+tags: Journal
+title: 2020-04-06 - Journal
+type: text/vnd.tiddlywiki
+
+Starting week 4 of quarantine today, as a social person I'm starting to go stir-crazy.
+
+Every I start to stray from [[TheBrain]] I have to file something away and end up putting it in TheBrain and I'm sucked right back in. It's driving me crazy that I either cannot commit or abandon it completely. At this point, what is really holding me back is that the iOS version doesn't have search within it's notes, just the thought names. I can live with breaking child thoughts into groupings, but no note search on iOS is killing me.
+
+Created another TiddlyWiki on Github Page with [[these directions|https://boffosocko.com/2020/04/04/self-hosting-tiddlywiki-with-github-pages/]]. Credit to [[Jack|Jack Baty]] for linking to this tutorial.
+
+My only issue with the Github pages is that there is an intermittent error with saving. I'm used to the Node.js version which is automatic saving and no delays in saving.
