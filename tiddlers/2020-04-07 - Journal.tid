@@ -1,0 +1,13 @@
+created: 20200407120333993
+creator: jcsullivan2
+modified: 20200407140057272
+modifier: jcsullivan2
+tags: Journal
+title: 2020-04-07 - Journal
+type: text/vnd.tiddlywiki
+
+Finally had some time to go through some old project files and archive them, and it cleared up a lot of notes and space.
+
+In my seemingly never ending need to replace every application I use with [[Standard Notes]] I've started to research todo.txt, the todo system based on a plain text file. Should be interesting.
+
+For years in TextExpander, I've used `x` as the prefix of a snippet, for example the journal dates for this wiki is `xtwjdate`. I've recently switched to `app.thing`, for example `tw.jdate` would be the equivalent. It's far easier to remember, especially for all applications I use.
