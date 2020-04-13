@@ -1,0 +1,19 @@
+created: 20200413124903813
+creator: jcsullivan2
+modified: 20200413132211363
+modifier: jcsullivan2
+tags: [[Thought On]]
+title: Thoughts on Arq 6 Roll Out - 13 April 2020
+type: text/vnd.tiddlywiki
+
+People have been constantly bitching at the developer of [[Arq|https://www.arqbackup.com/]] for the version 6 issues. 
+
+I'm sitting here thinking "Why the hell would you jump to a new version of a production backup app the day it's released?" 
+
+I saw it was updated and thought: "Great, I'll be able to install that in a month or two." 
+
+Some apps you can install right away, but an app as important as a backup app is one that needs to be tested. Then again, if these people didn't do that, the dev wouldn't have all the bugs fixed by the time I think about installing it. 
+
+But jeez, give the dev a break, they are clearly doing their best, and trying to make everyone happy.
+
+Let's be honest, yes this is partially on the dev, opening the beta pool to a larger group towards the end would have probably caught a lot of these, but I think this is also on all these people who immediately updated their ''PRODUCTION BACKUP TOOL'' without a care in the world. 🤦🏻‍♂️
