@@ -1,15 +1,16 @@
 created: 20190917164205620
 creator: jcsullivan2
-modified: 20190917164350188
+modified: 20200415142622381
 modifier: jcsullivan2
 tags: Pin
 title: My Personal Information System
 type: text/vnd.tiddlywiki
 
-!! [[DEVONthink]]
+!! [[Standard Notes]]
 * General Personal Notes
-* PDF Library
-* Financial Documents and Notes
+* All work notes
+* Work CRM
+* Work Commonplace Book
 
 !! [[TheBrain]]
 * Data Connections
@@ -17,7 +18,7 @@ type: text/vnd.tiddlywiki
 * CRM
 * Some Personal Notes
 
-!! [[InfoQube]]
-* All work notes
-* Work CRM
-* Work Commonplace Book
+!! [[DEVONthink]]
+* PDF Library
+* Financial Documents and Notes
+* Personal Notes Archive
