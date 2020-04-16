@@ -1,0 +1,16 @@
+created: 20200415194241764
+creator: jcsullivan2
+modified: 20200415194914353
+modifier: jcsullivan2
+tags: Change
+title: 2020-04-15 - TW: Updated to 5.1.22
+type: text/vnd.tiddlywiki
+
+Updated TiddlyWiki to [[version 5.1.22|https://tiddlywiki.com/#Release%205.1.22]].
+
+Once again had to use: `sudo npm install -g tiddlywiki@5.1.22`
+
+Mainly because I keep messing with the system tiddlers.
+
+I like with the NodeJS Server version the save icon has switched to a Cloud Syncing Icon, makes more since to me.
+
