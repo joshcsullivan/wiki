@@ -1,6 +1,6 @@
 created: 20200403130819014
 creator: jcsullivan2
-modified: 20200403132726007
+modified: 20200417132224705
 modifier: jcsullivan2
 tags: Software
 title: Joplin
@@ -26,3 +26,6 @@ Here is what I like and dislike:
 ** Ex. `*bear` wouldn't find unbearable
 * ''There is no way to lock or protect Joplin on a desktop install''
 ** This wouldn't be so much of an issue if I split personal from work notes, but some of my work notes turn into personal notes or vice versa so it is easier to keep it in one repository. I don't want a coworker to be able to sign into my profile and see all of my notes.
+
+!! Resources:
+* [[Joplin Forum|https://discourse.joplinapp.org/]]
