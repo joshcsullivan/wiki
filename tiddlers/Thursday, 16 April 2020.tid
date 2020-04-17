@@ -1,6 +1,6 @@
 created: 20200416131659976
 creator: jcsullivan2
-modified: 20200416155709782
+modified: 20200416223701679
 modifier: jcsullivan2
 tags: Journal
 title: Thursday, 16 April 2020
@@ -12,3 +12,5 @@ I understand the people who are wearing masks inside stores and out in public, b
 in said car. 🙄
 
 Looking forward to the three day weekend this weekend.
+
+Standard Notes has a beta version available that expands the spell check feature to different editor, based on upgrading Electron to version 8. Now I just need my default editor, Markdown Pro to add the spell check ability.
