@@ -1,0 +1,15 @@
+created: 20200421123354909
+creator: jcsullivan2
+modified: 20200421124312660
+modifier: jcsullivan2
+tags: [[Thought On]]
+title: Thoughts on Apple Keychain - 21 April 2020
+type: text/vnd.tiddlywiki
+
+I use lots of Apple services daily, and trust them with certain types of data. Keychain is one that I have no faith in Apple, if only due to experience with them syncing data. I still have a Numbers document that won't show up in iCloud Drive on my iPad, it's there on both of my Macs, with immediate edits, but never gets to the iPad. How could I possibly trust a service with my most critical data, passwords, when it can't even get a spreadsheet on every device. 
+
+I also remember the days of the corrupted keychains (wasn't that long ago) and have to reset the keychain completely to fix login issues, there goes all your passwords! Hold on, iCloud keychain is separate than local stored keychain... wait what? Then clearly reset keychain doesn't do what I expected it to do. I think they need to work on sync and backup services for the keychain for me to ever feel comfortable with keychain as my main password manager, I salute those that are using it and haven't had issues.
+
+I'll stick to 1Password who I've used for over a decade (Crazy, but 1Password 3 was released in 2009) has gone through database upgrades, and moved to the cloud. I trust them completely with my data, as for over a decade I've never lost a single entry in 1Password, whereas I've lost many documents and entire directories due to iCloud sync. Backups saved the day with those lost directories and files, but although 1Password has backups, I've never once had to restore an item from backup.
+
+PS. Matt Birchler's Blog post on an [[iCloud Keychain App|https://birchtree.me/blog/an-icloud-keychain-app/]] inspired this rant.
