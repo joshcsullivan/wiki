@@ -1,6 +1,6 @@
 created: 20200403130819014
 creator: jcsullivan2
-modified: 20200417132224705
+modified: 20200430124004703
 modifier: jcsullivan2
 tags: Software
 title: Joplin
@@ -23,7 +23,8 @@ Here is what I like and dislike:
 !! Cons:
 * Tags appear to be an after thought implementation
 * Search Doesn't Include Wildcard support at the beginning of a word
-** Ex. `*bear` wouldn't find unbearable
+** ~~Ex. `*bear` wouldn't find unbearable~~
+** After a recent update, `bear*` will now find unbearable, I still prefer the wildcard support to allow for prefix
 * ''There is no way to lock or protect Joplin on a desktop install''
 ** This wouldn't be so much of an issue if I split personal from work notes, but some of my work notes turn into personal notes or vice versa so it is easier to keep it in one repository. I don't want a coworker to be able to sign into my profile and see all of my notes.
 
