@@ -1,0 +1,12 @@
+created: 20200505121546148
+creator: jcsullivan2
+modified: 20200505122121469
+modifier: jcsullivan2
+title: Paste to TiddlyWiki Bookmarklet
+type: text/vnd.tiddlywiki
+
+```
+javascript:(function()%7Bjavascript%3Avoid(prompt(%22Copy%20the%20text%20below%20and%20paste%20into%20your%20TiddlyWiki%20to%20create%20a%20link%3A%22%2C%20%22%5B%5B%22%2Bdocument.title%2B%22%7C%22%2Blocation.href%2B%22%5D%5D%22))%7D)()
+```
+
+[[Source - TechLifeWeb|https://techlifeweb.com/bookmarklet-for-grabbing-the-title-and-url-of-a-site/]]
