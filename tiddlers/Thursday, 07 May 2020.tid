@@ -1,0 +1,17 @@
+created: 20200507100056693
+creator: jcsullivan2
+modified: 20200507121934468
+modifier: jcsullivan2
+tags: Journal
+title: Thursday, 07 May 2020
+type: text/vnd.tiddlywiki
+
+⛅ 40..60 ºF
+
+I'm debating between two Ninja coffee systems, the [[Ninja Hot & Cold Brewed System™ with Thermal Carafe|https://www.ninjakitchen.com/exclusive-offer/CP307WBKT/ninja-hot-and-cold-brewed-system-with-thermal-carafe/]] and the [[Ninja™ Specialty Coffee Maker with Thermal Carafe|https://www.ninjakitchen.com/exclusive-offer/CM407BRNWK/ninja-specialty-coffee-maker-with-thermal-carafe/]]. I'm leaning towards the Hot & Cold Brewed system because I do like cold brew, plus it allows for brewing Tea.
+
+If I wasn't against Roam before, I certainly am now after reading the new pricing thread on Twitter. I'm all for products know who their target users are, for example, both Joplin and Standard Notes have defined how they implement features, and often say no to feature requests. In Standard Notes they also justify why they price their extensions plans they way they do, and yet both Joplin and Standard Notes are respectful when disagreeing with customers. I've seen open hostility in that Twitter thread from the official Roam account.
+
+Finally tracked down the issue of my NextCloud instance [[not being reachable after restart|NextCloud Not Reachable After Reboot]].
+
+Speaking of NextCloud, I've been using NextCloud to sync my browser bookmarks for Firefox and Brave, via [[Floccus|https://github.com/marcelklehr/floccus]]. It's an amazing service, as you can have separate sets of bookmarks sync to different browsers. For example, I use Brave for personal browsing, so all my personal bookmarks are synced to Brave from NC, while FireFox uses a completely separate set of bookmarks. I wish Safari could sync with NC Bookmarks, but Apple has decided to make Extensions ridiculously limited and hard to distribute. 

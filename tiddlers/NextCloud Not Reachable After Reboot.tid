@@ -1,0 +1,15 @@
+created: 20200507121106037
+creator: jcsullivan2
+modified: 20200507121339341
+modifier: jcsullivan2
+tags: 
+title: NextCloud Not Reachable After Reboot
+type: text/vnd.tiddlywiki
+
+I've been having an issue with NextCloud not being reachable after rebooting the server. I thought it was fluke last time so, I did a bunch of stuff and eventually it started working, but I wasn't sure what did it.
+
+Today it happened again, so I tracked down the culprit, Nginx. It appears Nginx was using the port that NextCloud (at least through Snap) uses.
+
+Stop NGinx: `sudo service nginx stop`
+
+Stop Nginx from starting at boot: `sudo update-rc.d -f nginx disable`
