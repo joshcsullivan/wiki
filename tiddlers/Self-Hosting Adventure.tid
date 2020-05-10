@@ -1,0 +1,23 @@
+created: 20200510130312078
+creator: jcsullivan2
+modified: 20200510131118980
+modifier: jcsullivan2
+tags: 
+title: Self-Hosting Adventure
+type: text/vnd.tiddlywiki
+
+I've been on a host it yourself kick for the last 10 months ever since I had a data loss that was semi hard to recover from. [[NextCloud]] has been integral in this effort. I'm currently using it for:
+
+* File Sync
+* Bookmarks
+* Contacts
+* DEVONthink WebDAV Sync
+* Standard Notes File Safe Location
+* Cryptomator Vault Sync Location
+
+There are now three services I use that I do not self-host: 
+
+* Standard Notes (Versions cannot be used with Self-Hosted Sync Server Currently)
+* TheBrain
+* 1Password
+** I've tried BitWarden and think it's great, but I like 1Password more, seems more polished.

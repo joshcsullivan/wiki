@@ -1,0 +1,13 @@
+created: 20200510163852814
+creator: jcsullivan2
+modified: 20200510164456806
+modifier: jcsullivan2
+tags: Service
+title: WireGuard
+type: text/vnd.tiddlywiki
+
+[[WireGuard|https://www.wireguard.com/]] is a VPN service that is self-hosted.
+
+I've been bouncing around between L2TP stood up on my Synology for the last year, but now I've decided to move it off site to a DigitalOcean VPS, as we've been having more power outages. 
+
+It was simple to set up, although I ran into a snag on my main Droplet, so I stood it up on a new droplet and didn't have any issues, I think there might be a IP table issue on the main droplet, so I'll stick to the separate now until I have more time to dig into the IP table issues.
