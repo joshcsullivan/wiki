@@ -1,6 +1,6 @@
 created: 20200513120843536
 creator: jcsullivan2
-modified: 20200513121057299
+modified: 20200519125606848
 modifier: jcsullivan2
 tags: [[How To]]
 title: Install Docker on an unsupported Synology NAS
@@ -8,7 +8,7 @@ type: text/vnd.tiddlywiki
 
 For my DS418play, which has been relegated to some menial tasks, I needed a way to install the Docker UI, and found these steps work:
 
-1. Go to [[Index of /download/Package/spk/Docker|https://usdl.synology.com/download/Package/spk/Docker/]]
-2. Click into the newest version, then download the spk
-3. Go to Synology > Package Center > Manual Install
-4. Find the downloaded SPK and Install
+# Go to [[Index of /download/Package/spk/Docker|https://usdl.synology.com/download/Package/spk/Docker/]]
+# Click into the newest version, then download the spk
+# Go to Synology > Package Center > Manual Install
+# Find the downloaded SPK and Install
