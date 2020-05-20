@@ -1,0 +1,9 @@
+created: 20200520113742336
+creator: jcsullivan2
+modified: 20200520114521567
+modifier: jcsullivan2
+tags: Journal
+title: Wednesday, 20 May 2020
+type: text/vnd.tiddlywiki
+
+Just installed the new [[Windows Terminal|https://github.com/microsoft/terminal]] which allows for PowerShell, Command Prompt, and Windows Subsystem for Linux (WSL) in a single shell window. It uses tabbed view, so you can have a single window with multiple of each or all opened. I'm really liking it so far.
