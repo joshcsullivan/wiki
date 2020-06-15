@@ -1,17 +1,20 @@
 created: 20200415135618206
 creator: jcsullivan2
-modified: 20200501123426980
+modified: 20200615140143149
 modifier: jcsullivan2
 tags: Service
 title: My Browser Privacy Extensions
 type: text/vnd.tiddlywiki
 
+* [[uBlock Origin|https://github.com/gorhill/uBlock#ublock-origin]]
+* [[uMatrix|https://github.com/gorhill/uMatrix]]
 * [[Decentraleyes|https://decentraleyes.org/]]
+
+
+Retired:
+
 * [[Cookie AutoDelete|https://github.com/Cookie-AutoDelete/Cookie-AutoDelete]]
 * [[Nano Adblocker|https://chrome.google.com/webstore/detail/nano-adblocker/gabbbocakeomblphkmmnoamkioajlkfo/related]]
 * [[Nano Defender|https://chrome.google.com/webstore/detail/nano-defender/ggolfgbegefeeoocgjbmkembbncoadlb/related]]
 * [[Privacy Possum|https://github.com/cowlicks/privacypossum]]
-
-Retired:
-
 * [[Privacy Badger|https://privacybadger.org/]] - Replaced by Privacy Possum
