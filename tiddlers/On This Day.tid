@@ -7,7 +7,7 @@ title: On This Day
 type: text/vnd.tiddlywiki
 
 <$set name="todayMonthDay" value=<<now 0MM0DD>>>
-<$list filter="[!is[system]]+[!field:created/^2020/]" variable="tiddler">
+<$list filter="[!is[system]]+[!field:created]" variable="tiddler">
 <$set name="monthDay" value={{{ [<tiddler>get[created]split[]last[13]first[4]join[]] }}}>
 <$list filter="[<monthDay>match<todayMonthDay>]">
 
